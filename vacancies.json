@@ -1,0 +1,1357 @@
+[
+    {
+        "id": "68354192",
+        "premium": false,
+        "name": "Продавец-консультант парфюмерии",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "104",
+            "name": "Челябинск",
+            "url": "https://api.hh.ru/areas/104"
+        },
+        "salary": {
+            "from": 25000,
+            "to": 30000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2022-08-10T10:04:37+0300",
+        "created_at": "2022-08-10T10:04:37+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68354192",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/68354192?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/68354192/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/68354192",
+        "relations": [],
+        "employer": {
+            "id": "2925151",
+            "name": "S Parfum&Cosmetics",
+            "url": "https://api.hh.ru/employers/2925151",
+            "alternate_url": "https://hh.ru/employer/2925151",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/3887327.jpeg",
+                "240": "https://hhcdn.ru/employer-logo/3887328.jpeg",
+                "original": "https://hhcdn.ru/employer-logo-original/861613.jpg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2925151",
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": null,
+            "responsibility": "Уходовую косметику – непревзойденной линии средств для заботы о красоте и здоровье. - презентовать нашу компанию и продукцию. - продавать парфюмерию и уходовую..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "shift",
+            "name": "Сменный график"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false
+    },
+    {
+        "id": "68832783",
+        "premium": false,
+        "name": "Менеджер по продажам",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": null,
+            "to": 350000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2022-08-16T11:57:44+0300",
+        "created_at": "2022-08-16T11:57:44+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68832783",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/68832783?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/68832783/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/68832783",
+        "relations": [],
+        "employer": {
+            "id": "2489728",
+            "name": "Банкирро",
+            "url": "https://api.hh.ru/employers/2489728",
+            "alternate_url": "https://hh.ru/employer/2489728",
+            "logo_urls": {
+                "240": "https://hhcdn.ru/employer-logo/3424738.jpeg",
+                "90": "https://hhcdn.ru/employer-logo/3424737.jpeg",
+                "original": "https://hhcdn.ru/employer-logo-original/745944.jpg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2489728",
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Знание и применение технологии продаж. Опыт проведения презентаций, закрытия возражений и заключения договоров. Ответственность за свои результаты, достижение поставленных целей .",
+            "responsibility": "Ваша задача продавать услуги компании, бумагами займется офис менеджер. Никакого поиска клиентов и холодного обзвона, работаем на входящем потоке, непрерывный..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false
+    },
+    {
+        "id": "68579241",
+        "premium": false,
+        "name": "Специалист по дружбе",
+        "department": {
+            "id": "4496-4496-office",
+            "name": "МТС Банк. Головной офис"
+        },
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Москва",
+            "street": "проспект Андропова",
+            "building": "18к1",
+            "description": null,
+            "lat": 55.695022,
+            "lng": 37.66274,
+            "raw": "Москва, проспект Андропова, 18к1",
+            "metro": {
+                "station_name": "Технопарк",
+                "line_name": "Замоскворецкая",
+                "station_id": "2.512",
+                "line_id": "2",
+                "lat": 55.695,
+                "lng": 37.664167
+            },
+            "metro_stations": [
+                {
+                    "station_name": "Технопарк",
+                    "line_name": "Замоскворецкая",
+                    "station_id": "2.512",
+                    "line_id": "2",
+                    "lat": 55.695,
+                    "lng": 37.664167
+                }
+            ],
+            "id": "2687057"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2022-08-08T17:13:57+0300",
+        "created_at": "2022-08-08T17:13:57+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68579241",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/68579241?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/68579241/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/68579241",
+        "relations": [],
+        "employer": {
+            "id": "4496",
+            "name": "МТС Банк",
+            "url": "https://api.hh.ru/employers/4496",
+            "alternate_url": "https://hh.ru/employer/4496",
+            "logo_urls": {
+                "240": "https://hhcdn.ru/employer-logo/3091701.png",
+                "90": "https://hhcdn.ru/employer-logo/3091700.png",
+                "original": "https://hhcdn.ru/employer-logo-original/662642.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4496",
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Прокаченные коммуникативные навыки, искренность, дружелюбие. Ты – душа компании. Умение играть на игровой консоли в разные игры (уровень не ниже «Любитель»). ",
+            "responsibility": "Онлайн-поддержка ветеринара для ваших питомцев."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false
+    },
+    {
+        "id": "68642062",
+        "premium": false,
+        "name": "Менеджер по продажам услуг",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": null,
+            "to": 350000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2022-08-10T11:19:04+0300",
+        "created_at": "2022-08-10T11:19:04+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68642062",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/68642062?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/68642062/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/68642062",
+        "relations": [],
+        "employer": {
+            "id": "2489728",
+            "name": "Банкирро",
+            "url": "https://api.hh.ru/employers/2489728",
+            "alternate_url": "https://hh.ru/employer/2489728",
+            "logo_urls": {
+                "240": "https://hhcdn.ru/employer-logo/3424738.jpeg",
+                "90": "https://hhcdn.ru/employer-logo/3424737.jpeg",
+                "original": "https://hhcdn.ru/employer-logo-original/745944.jpg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2489728",
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Имеешь опыт проведения презентаций, закрытия возражений и урегулирования конфликтов.",
+            "responsibility": "Никакого поиска клиентов и холодного обзвона, работаем на входящем потоке, непрерывный поток клиентов."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false
+    },
+    {
+        "id": "68712038",
+        "premium": false,
+        "name": "Водитель на легковую машину",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "159",
+            "name": "Нур-Султан",
+            "url": "https://api.hh.ru/areas/159"
+        },
+        "salary": {
+            "from": 200000,
+            "to": 300000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2022-08-12T09:09:04+0300",
+        "created_at": "2022-08-12T09:09:04+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68712038",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/68712038?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/68712038/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/68712038",
+        "relations": [],
+        "employer": {
+            "id": "3574165",
+            "name": "Карсак-2015",
+            "url": "https://api.hh.ru/employers/3574165",
+            "alternate_url": "https://hh.ru/employer/3574165",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3574165",
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Требуемый опыт работы: от 3 лет. Профессиональное образование. Наличие соответствующей категории вождения. Опыт работы на аналогичной должности. Повышенная ответственность и...",
+            "responsibility": "Обеспечивает своевременную подачу автомобиля. Осуществляет вождение автомобиля, максимально обеспечивающее сохранность жизни и здоровья пассажиров. Следит за техническим состоянием автомобиля, выполняет..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false
+    },
+    {
+        "id": "68552446",
+        "premium": false,
+        "name": "Менеджер/ Специалист по продажам/ Менеджер офиса продаж",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": 80000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2022-08-08T10:15:10+0300",
+        "created_at": "2022-08-08T10:15:10+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68552446",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/68552446?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/68552446/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/68552446",
+        "relations": [],
+        "employer": {
+            "id": "2489728",
+            "name": "Банкирро",
+            "url": "https://api.hh.ru/employers/2489728",
+            "alternate_url": "https://hh.ru/employer/2489728",
+            "logo_urls": {
+                "240": "https://hhcdn.ru/employer-logo/3424738.jpeg",
+                "90": "https://hhcdn.ru/employer-logo/3424737.jpeg",
+                "original": "https://hhcdn.ru/employer-logo-original/745944.jpg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2489728",
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Имеешь опыт проведения презентаций, закрытия возражений и урегулирования конфликтов.",
+            "responsibility": "Никакого поиска клиентов и холодного обзвона, работаем на входящем потоке, непрерывный поток клиентов."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false
+    },
+    {
+        "id": "68889066",
+        "premium": false,
+        "name": "Менеджер по работе с корпоративными клиентами",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "66",
+            "name": "Нижний Новгород",
+            "url": "https://api.hh.ru/areas/66"
+        },
+        "salary": {
+            "from": 60000,
+            "to": 70000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Нижний Новгород",
+            "street": "Союзный проспект",
+            "building": "2",
+            "description": null,
+            "lat": 56.358612,
+            "lng": 43.854171,
+            "raw": "Нижний Новгород, Союзный проспект, 2",
+            "metro": {
+                "station_name": "Буревестник",
+                "line_name": "Сормовская",
+                "station_id": "51.292",
+                "line_id": "51",
+                "lat": 56.333834,
+                "lng": 43.892799
+            },
+            "metro_stations": [
+                {
+                    "station_name": "Буревестник",
+                    "line_name": "Сормовская",
+                    "station_id": "51.292",
+                    "line_id": "51",
+                    "lat": 56.333834,
+                    "lng": 43.892799
+                }
+            ],
+            "id": "163313"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2022-08-17T15:01:55+0300",
+        "created_at": "2022-08-17T15:01:55+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68889066",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/68889066?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/68889066/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/68889066",
+        "relations": [],
+        "employer": {
+            "id": "193859",
+            "name": "ЖБИ-7",
+            "url": "https://api.hh.ru/employers/193859",
+            "alternate_url": "https://hh.ru/employer/193859",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/3745255.png",
+                "240": "https://hhcdn.ru/employer-logo/3745256.png",
+                "original": "https://hhcdn.ru/employer-logo-original/826092.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=193859",
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Желание много учиться и добиваться результата. Опыт в продаже товара, основах менеджмента, B2B. Высшее образование или средне-специальное. ",
+            "responsibility": "Организовать работу с клиентами: ведение деловой переписки, исходящие и входящие звонки, мессенджеры. Входящий поток клиентов плюс холодные звонки. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false
+    },
+    {
+        "id": "68667039",
+        "premium": false,
+        "name": "1Сотрудник ресторана KFC",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "3",
+            "name": "Екатеринбург",
+            "url": "https://api.hh.ru/areas/3"
+        },
+        "salary": {
+            "from": 35000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2022-08-10T23:44:59+0300",
+        "created_at": "2022-08-10T23:44:59+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68667039",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/68667039?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/68667039/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/68667039",
+        "relations": [],
+        "employer": {
+            "id": "3093544",
+            "name": "KFC (Интернэшнл Ресторант Брэндс)",
+            "url": "https://api.hh.ru/employers/3093544",
+            "alternate_url": "https://hh.ru/employer/3093544",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/3927575.jpeg",
+                "240": "https://hhcdn.ru/employer-logo/3927576.jpeg",
+                "original": "https://hhcdn.ru/employer-logo-original/871675.jpg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3093544",
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Активность. Ответственность. Высокая скорость обучения. Навык работы в команде. Опыт работы не требуется – Мы всему научим!",
+            "responsibility": "Приготовление блюд по стандартам компании. Работа на кассе. Прием и выдача заказа. Поддержание чистоты на рабочем месте."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "flexible",
+            "name": "Гибкий график"
+        },
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "Работа только по сб и вс"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно работать сменами по 4–6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "Можно начинать работать после 16:00"
+            }
+        ],
+        "accept_temporary": true
+    },
+    {
+        "id": "68920782",
+        "premium": false,
+        "name": "Оператор колл-центра",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "53",
+            "name": "Краснодар",
+            "url": "https://api.hh.ru/areas/53"
+        },
+        "salary": {
+            "from": 30000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Краснодар",
+            "street": "улица Стасова",
+            "building": "184",
+            "description": null,
+            "lat": 45.029833,
+            "lng": 39.044016,
+            "raw": "Краснодар, улица Стасова, 184",
+            "metro": null,
+            "metro_stations": [],
+            "id": "11356988"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2022-08-18T12:32:58+0300",
+        "created_at": "2022-08-18T12:32:58+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68920782",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/68920782?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/68920782/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/68920782",
+        "relations": [],
+        "employer": {
+            "id": "2832307",
+            "name": "АгрономЪ",
+            "url": "https://api.hh.ru/employers/2832307",
+            "alternate_url": "https://hh.ru/employer/2832307",
+            "logo_urls": {
+                "original": "https://hhcdn.ru/employer-logo-original/939263.png",
+                "240": "https://hhcdn.ru/employer-logo/4197597.png",
+                "90": "https://hhcdn.ru/employer-logo/4197596.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2832307",
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Исполнительный директор.",
+            "responsibility": "Помогать менеджерам обрабатывать входящие заявки. - Вести базу CRM. - Общаться с клиентами с целью выявления потребности в покупке оборудования. - "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false
+    },
+    {
+        "id": "68738017",
+        "premium": false,
+        "name": "Менеджер по продажам в кадровое агентство",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "2",
+            "name": "Санкт-Петербург",
+            "url": "https://api.hh.ru/areas/2"
+        },
+        "salary": {
+            "from": 100000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Санкт-Петербург",
+            "street": "Кронверкский проспект",
+            "building": "23",
+            "description": null,
+            "lat": 59.956967,
+            "lng": 30.31815,
+            "raw": "Санкт-Петербург, Кронверкский проспект, 23",
+            "metro": null,
+            "metro_stations": [],
+            "id": "11036046"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2022-08-12T17:16:11+0300",
+        "created_at": "2022-08-12T17:16:11+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68738017",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/68738017?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/68738017/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/68738017",
+        "relations": [],
+        "employer": {
+            "id": "4700052",
+            "name": "Лист Бар",
+            "url": "https://api.hh.ru/employers/4700052",
+            "alternate_url": "https://hh.ru/employer/4700052",
+            "logo_urls": {
+                "original": "https://hhcdn.ru/employer-logo-original/995563.jpg",
+                "90": "https://hhcdn.ru/employer-logo/5603048.jpeg",
+                "240": "https://hhcdn.ru/employer-logo/5603049.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4700052",
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Готовность работать с большим объёмом информации. - Грамотная русская речь, важно для того чтобы красиво и грамотно презентовать услугу, совершать звонки. - ",
+            "responsibility": "Вести клиента с момента первичной консультации до подписания договора (только горячие клиенты, входящий трафик). - Вести базу клиентов в CRM-системе..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": true
+    },
+    {
+        "id": "68491619",
+        "premium": false,
+        "name": "Водитель автомобиля (Ситроен Берлинго)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "99",
+            "name": "Уфа",
+            "url": "https://api.hh.ru/areas/99"
+        },
+        "salary": {
+            "from": 38000,
+            "to": 42000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2022-08-19T18:14:04+0300",
+        "created_at": "2022-08-19T18:14:04+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68491619",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/68491619?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/68491619/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/68491619",
+        "relations": [],
+        "employer": {
+            "id": "2366637",
+            "name": "Business Comfort",
+            "url": "https://api.hh.ru/employers/2366637",
+            "alternate_url": "https://hh.ru/employer/2366637",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/2269632.jpeg",
+                "240": "https://hhcdn.ru/employer-logo/2269633.jpeg",
+                "original": "https://hhcdn.ru/employer-logo-original/456941.jpg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2366637",
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": null,
+            "responsibility": null
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false
+    },
+    {
+        "id": "68339546",
+        "premium": false,
+        "name": "Менеджер по работе с партнерами",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "2",
+            "name": "Санкт-Петербург",
+            "url": "https://api.hh.ru/areas/2"
+        },
+        "salary": {
+            "from": 60000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Санкт-Петербург",
+            "street": "Центральный район, улица Некрасова",
+            "building": "40",
+            "description": null,
+            "lat": 59.938883,
+            "lng": 30.361395,
+            "raw": "Санкт-Петербург, Центральный район, улица Некрасова, 40",
+            "metro": null,
+            "metro_stations": [],
+            "id": "5384039"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2022-08-19T12:49:37+0300",
+        "created_at": "2022-08-19T12:49:37+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68339546",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/68339546?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/68339546/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/68339546",
+        "relations": [],
+        "employer": {
+            "id": "1910225",
+            "name": "Aurum Queen",
+            "url": "https://api.hh.ru/employers/1910225",
+            "alternate_url": "https://hh.ru/employer/1910225",
+            "logo_urls": {
+                "original": "https://hhcdn.ru/employer-logo-original/709384.png",
+                "90": "https://hhcdn.ru/employer-logo/3278652.png",
+                "240": "https://hhcdn.ru/employer-logo/3278653.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1910225",
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Сотрудничество с успешными компаниями в сфере красоты и здоровья, блогерами.",
+            "responsibility": "Работа B2B с партнёрами по всей стране . Создание новых партнеров. Консультирование покупателей по ассортименту и новинкам компании. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false
+    },
+    {
+        "id": "68557640",
+        "premium": false,
+        "name": "Продавец-консультант парфюмерии и уходовой косметики",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "32",
+            "name": "Иваново (Ивановская область)",
+            "url": "https://api.hh.ru/areas/32"
+        },
+        "salary": {
+            "from": 25000,
+            "to": 35000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2022-08-11T11:12:54+0300",
+        "created_at": "2022-08-11T11:12:54+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68557640",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/68557640?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/68557640/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/68557640",
+        "relations": [],
+        "employer": {
+            "id": "2925151",
+            "name": "S Parfum&Cosmetics",
+            "url": "https://api.hh.ru/employers/2925151",
+            "alternate_url": "https://hh.ru/employer/2925151",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/3887327.jpeg",
+                "240": "https://hhcdn.ru/employer-logo/3887328.jpeg",
+                "original": "https://hhcdn.ru/employer-logo-original/861613.jpg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2925151",
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "много общаться и любить свою работу. Ты легко находишь контакт с любым человеком? У тебя грамотная речь и высокая самодисциплина? ",
+            "responsibility": "Уходовую косметику – непревзойденной линии средств для заботы о красоте и здоровье. - знакомить посетителей магазина с компанией и ароматами."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "shift",
+            "name": "Сменный график"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false
+    },
+    {
+        "id": "68593360",
+        "premium": false,
+        "name": "Менеджер продаж",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": null,
+            "to": 350000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2022-08-09T09:40:59+0300",
+        "created_at": "2022-08-09T09:40:59+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68593360",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/68593360?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/68593360/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/68593360",
+        "relations": [],
+        "employer": {
+            "id": "2489728",
+            "name": "Банкирро",
+            "url": "https://api.hh.ru/employers/2489728",
+            "alternate_url": "https://hh.ru/employer/2489728",
+            "logo_urls": {
+                "240": "https://hhcdn.ru/employer-logo/3424738.jpeg",
+                "90": "https://hhcdn.ru/employer-logo/3424737.jpeg",
+                "original": "https://hhcdn.ru/employer-logo-original/745944.jpg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2489728",
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Имеешь опыт проведения презентаций, закрытия возражений и урегулирования конфликтов.",
+            "responsibility": "Никакого поиска клиентов и холодного обзвона, работаем на входящем потоке, непрерывный поток клиентов."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false
+    },
+    {
+        "id": "68126709",
+        "premium": false,
+        "name": "Системный администратор",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Москва",
+            "street": "улица Орджоникидзе",
+            "building": "12",
+            "description": null,
+            "lat": 55.710398,
+            "lng": 37.590219,
+            "raw": "Москва, улица Орджоникидзе, 12",
+            "metro": null,
+            "metro_stations": [],
+            "id": "557064"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2022-07-25T17:20:34+0300",
+        "created_at": "2022-07-25T17:20:34+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68126709",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/68126709?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/68126709/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/68126709",
+        "relations": [],
+        "employer": {
+            "id": "1809832",
+            "name": "Анлим Групп",
+            "url": "https://api.hh.ru/employers/1809832",
+            "alternate_url": "https://hh.ru/employer/1809832",
+            "logo_urls": {
+                "original": "https://hhcdn.ru/employer-logo-original/259259.png",
+                "90": "https://hhcdn.ru/employer-logo/1479566.png",
+                "240": "https://hhcdn.ru/employer-logo/1479567.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1809832",
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Администрирование Windows Server 2012 - 2019, диагностика, устранение ошибок. Умение самостоятельно находить решение проблем. Знание принципов работы сетевых протоколов и базовых...",
+            "responsibility": "Поддержка серверной инфраструктуры Hyper-V \\ ESXi. Установка и администрирования AD, Terminal Server. Настройка сетевого оборудования MikroTik или аналогов. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false
+    },
+    {
+        "id": "68490545",
+        "premium": false,
+        "name": "Менеджер по физлицам",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "88",
+            "name": "Казань",
+            "url": "https://api.hh.ru/areas/88"
+        },
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2022-08-04T17:32:17+0300",
+        "created_at": "2022-08-04T17:32:17+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68490545",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/68490545?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/68490545/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/68490545",
+        "relations": [],
+        "employer": {
+            "id": "1060821",
+            "name": "Рост Развитие Решение",
+            "url": "https://api.hh.ru/employers/1060821",
+            "alternate_url": "https://hh.ru/employer/1060821",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/874868.jpeg",
+                "240": "https://hhcdn.ru/employer-logo/874869.jpeg",
+                "original": "https://hhcdn.ru/employer-logo-original/85446.jpg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1060821",
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт работы от 1 года. Мобильность. Оперативность, организованность. Грамотная речь. Коммуникабельность.",
+            "responsibility": "Продажа на входящем потоке. Консультация клиентов. Подготовка КП. Заключение договора. Работа с отказами. Отчетность в Битрикс 24."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false
+    },
+    {
+        "id": "68647982",
+        "premium": false,
+        "name": "Помощник менеджера по продажам",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "53",
+            "name": "Краснодар",
+            "url": "https://api.hh.ru/areas/53"
+        },
+        "salary": {
+            "from": 20000,
+            "to": 25000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Краснодар",
+            "street": "улица Стасова",
+            "building": "184",
+            "description": null,
+            "lat": 45.029833,
+            "lng": 39.044016,
+            "raw": "Краснодар, улица Стасова, 184",
+            "metro": null,
+            "metro_stations": [],
+            "id": "11356988"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2022-08-10T12:53:19+0300",
+        "created_at": "2022-08-10T12:53:19+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68647982",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/68647982?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/68647982/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/68647982",
+        "relations": [],
+        "employer": {
+            "id": "2832307",
+            "name": "АгрономЪ",
+            "url": "https://api.hh.ru/employers/2832307",
+            "alternate_url": "https://hh.ru/employer/2832307",
+            "logo_urls": {
+                "original": "https://hhcdn.ru/employer-logo-original/939263.png",
+                "240": "https://hhcdn.ru/employer-logo/4197597.png",
+                "90": "https://hhcdn.ru/employer-logo/4197596.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2832307",
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Исполнительный директор.",
+            "responsibility": "Помогать менеджерам обрабатывать входящие заявки. - Вести базу CRM. - Выполнять прочие поручения менеджера по продажам. - Руководитель группы продавцов. - Руководитель отдела продаж."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false
+    },
+    {
+        "id": "68073562",
+        "premium": false,
+        "name": "Продавец-консультант в ТЦ Невский (Стокманн)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "2",
+            "name": "Санкт-Петербург",
+            "url": "https://api.hh.ru/areas/2"
+        },
+        "salary": {
+            "from": 60000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Санкт-Петербург",
+            "street": "Невский проспект",
+            "building": "114-116",
+            "description": null,
+            "lat": 59.931941,
+            "lng": 30.359149,
+            "raw": "Санкт-Петербург, Невский проспект, 114-116",
+            "metro": null,
+            "metro_stations": [],
+            "id": "6352919"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2022-08-18T15:54:01+0300",
+        "created_at": "2022-08-18T15:54:01+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68073562",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/68073562?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/68073562/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/68073562",
+        "relations": [],
+        "employer": {
+            "id": "1910225",
+            "name": "Aurum Queen",
+            "url": "https://api.hh.ru/employers/1910225",
+            "alternate_url": "https://hh.ru/employer/1910225",
+            "logo_urls": {
+                "original": "https://hhcdn.ru/employer-logo-original/709384.png",
+                "90": "https://hhcdn.ru/employer-logo/3278652.png",
+                "240": "https://hhcdn.ru/employer-logo/3278653.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1910225",
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Любовь к продажам. Желание много зарабатывать. Умение найти общий язык с любым клиентом. Опыт работы в Lux-сегменте.",
+            "responsibility": null
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false
+    },
+    {
+        "id": "68113064",
+        "premium": false,
+        "name": "Сотрудник ресторана KFC.",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "1",
+            "name": "Москва",
+            "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+            "from": 29500,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2022-07-25T13:11:20+0300",
+        "created_at": "2022-07-25T13:11:20+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68113064",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/68113064?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/68113064/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/68113064",
+        "relations": [],
+        "employer": {
+            "id": "3093544",
+            "name": "KFC (Интернэшнл Ресторант Брэндс)",
+            "url": "https://api.hh.ru/employers/3093544",
+            "alternate_url": "https://hh.ru/employer/3093544",
+            "logo_urls": {
+                "90": "https://hhcdn.ru/employer-logo/3927575.jpeg",
+                "240": "https://hhcdn.ru/employer-logo/3927576.jpeg",
+                "original": "https://hhcdn.ru/employer-logo-original/871675.jpg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3093544",
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Активность. Ответственность. Высокая скорость обучения. Навык работы в команде. Опыт работы не требуется – Мы всему научим!",
+            "responsibility": "Приготовление блюд по стандартам компании. Работа на кассе. Прием и выдача заказа. Поддержание чистоты на рабочем месте."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "flexible",
+            "name": "Гибкий график"
+        },
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "Работа только по сб и вс"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно работать сменами по 4–6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "Можно начинать работать после 16:00"
+            }
+        ],
+        "accept_temporary": true
+    },
+    {
+        "id": "68259116",
+        "premium": false,
+        "name": "Мастер-прораб",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "88",
+            "name": "Казань",
+            "url": "https://api.hh.ru/areas/88"
+        },
+        "salary": {
+            "from": 60000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2022-07-28T16:46:07+0300",
+        "created_at": "2022-07-28T16:46:07+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68259116",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/68259116?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/68259116/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/68259116",
+        "relations": [],
+        "employer": {
+            "id": "5159697",
+            "name": "РОВНЫЙ ПОЛ, цементно-песчаная стяжка и промышленные бетонные полы",
+            "url": "https://api.hh.ru/employers/5159697",
+            "alternate_url": "https://hh.ru/employer/5159697",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5159697",
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": null,
+            "responsibility": "1.Работаем на промышленных, коммерческих, частных и муниципальных объектах. Выполняем стяжку без привлечения других подрядчиков. 1. Организация работ 4-5 бригад..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false
+    }
+]
