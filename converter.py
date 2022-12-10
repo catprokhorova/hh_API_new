@@ -1,7 +1,9 @@
-# coding: utf-8
+from functools import cached_property
 import requests
 
 class Converter:
+
+    @cached_property
     def exchange_rates(self):
         """
         Возвращает ответ сервиса с информацией о валютах в виде:
@@ -36,11 +38,10 @@ class Converter:
             'Previous': 79.6765,
             'Value': 79.4966
         }
-        
+
         Rate('value').make_format('EUR')
         79.4966
         """
-        response = self.exchange_rates()
+        response = self.exchange_rates
         if response.get(currency):
-            return round(response[currency]['Value'] / response[currency]['Nominal'])
-
+            return response[currency]['Value'] / response[currency]['Nominal']
