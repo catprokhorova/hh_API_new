@@ -75,6 +75,6 @@ for query in tqdm(queries):
                 data['salary_from'] = salary
                 data['salary_to'] = salary
                 data['currency'] = salary
-            result = pd.concat([result, pd.DataFrame([data])]).drop_duplicates()
+            result = pd.concat([result, pd.DataFrame([data])])
 
-result.to_csv('zmeya_dushnila.csv', sep=';', index=False)
+result.to_csv('py_dev_vac.csv', sep=';', index=False)
