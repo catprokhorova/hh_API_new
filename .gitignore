@@ -2,3 +2,4 @@ hh_API/
 .ipynb_checkpoints/
 __pycache__/
 .venv
+.env
