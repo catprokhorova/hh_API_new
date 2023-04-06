@@ -1,230 +1,235 @@
 id;spec;job_title;city;employer;schedule;experience;published;salary_from;salary_to;currency;skills
-78400616;Data Scientist;Middle Data scientist;Казань;Ранкс;;;2023-03-22;100000;150000;RUR;
-78381745;Data Scientist;Senior Data Scientist;Иннополис;Контур;;;2023-03-22;;;;
-78045027;Data Scientist;Аналитик данных (Data Scientist);Казань;DLS;;;2023-03-14;;;;
-78937901;Data Scientist;Junior Data scientist (Аналитик);Нижний Новгород;Займиго МФК;;;2023-04-05;60000;;RUR;
-78855362;Data Scientist;Аналитик данных / Data Analyst / Data Scientist;Нижний Новгород;DEERAY;;;2023-04-03;80000;;RUR;
+78400616;Data Scientist;Middle Data scientist;Казань;Ранкс;;;2023-03-22;100000;150000;RUR;python, математическая статистика, sql, pandas, машинное обучение
+78381745;Data Scientist;Senior Data Scientist;Иннополис;Контур;;;2023-03-22;;;;nlp, machine learning, python, data science
+78045027;Data Scientist;Аналитик данных (Data Scientist);Казань;DLS;;;2023-03-14;;;;python, математическая статистика, sql, pandas, sklearn, numpy, ms sql, математическое моделирование, базы данных, теория вероятностей, машинное обучение, data science, алгоритмы, mongodb, ml, sklearn
+78937901;Data Scientist;Junior Data scientist (Аналитик);Нижний Новгород;Займиго МФК;;;2023-04-05;60000;;RUR;python, статистический анализ, прогнозирование, математическая статистика
+78855362;Data Scientist;Аналитик данных / Data Analyst / Data Scientist;Нижний Новгород;DEERAY;;;2023-04-03;80000;;RUR;python, jupyter notebook, business intelligence systems, data analysis, анализ данных, аналитическое мышление, big data, ml, ms excel, etl, a/b тесты, mathematical statistics, sql, power query, работа в команде, data science, математическая статистика, регрессионный анализ, статистический анализ, git
 78732741;Data Scientist;Data Scientist в рекомендательные системы;Нижний Новгород;СБЕР;;;2023-03-30;;;;
-78883017;Data Scientist;Senior Data Scientist;Нижний Новгород;Positive Technologies;;;2023-04-04;;;;
+78883017;Data Scientist;Senior Data Scientist;Нижний Новгород;Positive Technologies;;;2023-04-04;;;;python, machine learning, web security, sklearn, pytorch, docker
 69631571;Data Scientist;Data Scientist;Нижний Новгород;СБЕР;;;2023-03-24;;;;
-78146526;Data Scientist;Middle Data scientist / Аналитик (Нижний Новгород);Нижний Новгород;Займиго МФК;;;2023-03-16;100000;150000;RUR;
-78149683;Data Scientist;Data Scientist;Нижний Новгород;Моризо Диджитал;;;2023-03-16;;;;
-78867877;Data Scientist;Data scientist / Python разработчик;Рязань;Пауэр Тех;;;2023-04-04;;;;
+78149683;Data Scientist;Data Scientist;Нижний Новгород;Моризо Диджитал;;;2023-03-16;;;;python, sql, ms powerpoint, статистический анализ, ml, data science
+78146526;Data Scientist;Middle Data scientist / Аналитик (Нижний Новгород);Нижний Новгород;Займиго МФК;;;2023-03-16;100000;150000;RUR;python, статистический анализ, прогнозирование, математическая статистика
+78867877;Data Scientist;Data scientist / Python разработчик;Рязань;Пауэр Тех;;;2023-04-04;;;;big data, data analysis, mathematical analysis, python, sql, английский язык, postgresql, mongodb
 78007068;Data Scientist;Data scientist;Новосибирск;LC Group;;;2023-04-04;;;;
-77860633;Data Scientist;Data Scientist;Новосибирск;LC Group;;;2023-04-04;;;;
+77860633;Data Scientist;Data Scientist;Новосибирск;LC Group;;;2023-04-04;;;;python, docker, machine learning
 77519035;Data Scientist;Data Scientist;Новосибирск;Финтех Айкью;;;2023-03-27;;;;
-78883014;Data Scientist;Senior Data Scientist;Новосибирск;Positive Technologies;;;2023-04-04;;;;
-76815796;Data Scientist;Lead data scientist;Новосибирск;Дром;;;2023-03-19;300000;350000;RUR;
+78883014;Data Scientist;Senior Data Scientist;Новосибирск;Positive Technologies;;;2023-04-04;;;;python, machine learning, web security, sklearn, pytorch, docker
+76815796;Data Scientist;Lead data scientist;Новосибирск;Дром;;;2023-03-19;300000;350000;RUR;машинное обучение, алгоритмы, computer vision, python
 78125714;Data Scientist;Data scientist;Новосибирск;LIME RUSSIA;;;2023-03-16;;;;
-76916738;Data Scientist;Middle Data Scientist;Новосибирск;Центр финансовых технологий;;;2023-03-08;;;;
-78883019;Data Scientist;Senior Data Scientist;Томск;Positive Technologies;;;2023-04-04;;;;
-76815797;Data Scientist;Lead data scientist;Томск;Дром;;;2023-03-19;300000;350000;RUR;
-76916739;Data Scientist;Middle Data Scientist;Томск;Центр финансовых технологий;;;2023-03-08;;;;
+76916738;Data Scientist;Data Scientist (Middle+/Senior);Новосибирск;Центр финансовых технологий;;;2023-03-08;;;;
+78883019;Data Scientist;Senior Data Scientist;Томск;Positive Technologies;;;2023-04-04;;;;python, machine learning, web security, sklearn, pytorch, docker
+76815797;Data Scientist;Lead data scientist;Томск;Дром;;;2023-03-19;300000;350000;RUR;машинное обучение, алгоритмы, computer vision, python
+76916739;Data Scientist;Data Scientist (Middle+/Senior);Томск;Центр финансовых технологий;;;2023-03-08;;;;
 78876532;Data Scientist;Эконометрист/Data scientist (Junior/Middle) в консалтинг;Москва;БСТ Менеджмент-Консалтинг;;;2023-04-04;40000;;RUR;
-78764927;Data Scientist;Разработчик в области машинного обучения и больших данных (Data Scientist);Москва;Ульянова Надежда Михайловна;;;2023-04-03;;;;
-78961029;Data Scientist;Data Scientist;Москва;CyberPhysics;;;2023-04-05;160000;180000;RUR;
+78764927;Data Scientist;Разработчик в области машинного обучения и больших данных (Data Scientist);Москва;Ульянова Надежда Михайловна;;;2023-04-06;;;;tensorflow, аналитическое мышление, анализ данных, разработка компьютерных игр, gamedev, python, удаленная работа, ml, машинное обучение, математический склад ума, гибкость мышления, решение нестандартных задач, нейросеть, keras, pytorch
+79000975;Data Scientist;Data Scientist (Junior);Москва;Газпромбанк;;;2023-04-06;;;;python, sql, ml, ds
+78961029;Data Scientist;Data Scientist;Москва;CyberPhysics;;;2023-04-05;160000;180000;RUR;machine learning, python, tensorflow, pandas, ооп, numpy
+78995690;Data Scientist;Data Scientist;Москва;РОСБАНК;;;2023-04-06;;;;python, sas, sql, r
 78448054;Data Scientist;Специалист/Инженер (AI, Data Scientist, Big Data, Machine learning, Нейронные сети, ChatGPT);Москва;ПК ЛидерГрупп;;;2023-04-04;;;;
-78769816;Data Scientist;Ведущий специалист отдела математического моделирования / Data Scientist;Москва;Eqvanta;;;2023-04-03;;;;
-77954455;Data Scientist;Data Scientist (Middle+);Москва;DIGINETICA;;;2023-04-03;170000;240000;RUR;
-78762450;Data Scientist;Data Scientist;Москва;МТС Банк;;;2023-04-02;;;;
-70163749;Data Scientist;Data Scientist (middle/senior);Москва;Rubbles;;;2023-04-04;;400000;RUR;
-78778781;Data Scientist;Senior Data scientist;Москва;AMarkets;;;2023-04-03;317435;;RUR;
-78386771;Data Scientist;Middle+ Data Scientist;Москва;Remokate;;;2023-04-03;160000;200000;RUR;
-78891888;Data Scientist;Middle Data Scientist;Москва;Группа НЛМК;;;2023-04-04;;;;
-76939162;Data Scientist;Data Scientist (RecSys);Москва;Домклик;;;2023-04-03;;;;
-78834164;Data Scientist;Data Scientist;Москва;Газпром нефть;;;2023-04-03;;;;
-78896775;Data Scientist;Data Scientist (Геоаналитика);Москва;СБЕР;;;2023-04-04;;;;
-78706463;Data Scientist;Data Scientist;Москва;Точка;;;2023-03-30;;300000;RUR;
-78913351;Data Scientist;Data Scientist (математическое моделирование);Москва;РОСБАНК;;;2023-04-04;;;;
-78331454;Data Scientist;Data Scientist (middle);Москва;Композиты России;;;2023-04-05;;;;
+78769816;Data Scientist;Ведущий специалист отдела математического моделирования / Data Scientist;Москва;Eqvanta;;;2023-04-06;;;;
+77954455;Data Scientist;Data Scientist (Middle+);Москва;DIGINETICA;;;2023-04-06;170000;240000;RUR;scala, java, sql, анализ данных, python, elasticsearch, big data, с++, tensorflow, pytorch, scipy, numpy, pandas, word2vec, xgboost
+78991481;Data Scientist;Data Scientist (NLP);Москва;Крибрум;;;2023-04-06;;;;rust, pytorch, cassandra, postgresql
+70163749;Data Scientist;Data Scientist (middle/senior);Москва;Rubbles;;;2023-04-04;;400000;RUR;python, spark, sql, machine learning, pandas, машинное обучение, data science, big data
+79002008;Data Scientist;Аналитик/Data Scientist;Москва;Государственная корпорация Агентство по страхованию вкладов;;;2023-04-06;;;;
+78976610;Data Scientist;Data Scientist;Москва;Employcity;;;2023-04-06;;;;
+78778781;Data Scientist;Senior Data scientist;Москва;AMarkets;;;2023-04-06;317990;;RUR;
+78386771;Data Scientist;Middle+ Data Scientist;Москва;Remokate;;;2023-04-06;160000;200000;RUR;sql, python, базы данных, big data, ml
+77774476;Data Scientist;Data analyst/ Data Scientist  (удаленно);Москва;РОСБАНК;;;2023-04-05;;;;sql, python, hadoop, spark, анализ данных, data analysis, data science, machine learning, ml, numpy, pandas
+78891888;Data Scientist;Middle Data Scientist;Москва;Группа НЛМК;;;2023-04-04;;;;data analysis, confluence, удаленная работа, sql, python, jira
+76939162;Data Scientist;Data Scientist (RecSys);Москва;Домклик;;;2023-04-06;;;;python, sql, pytorch, математическая статистика, keras
+78762450;Data Scientist;Data Scientist;Москва;МТС Банк;;;2023-04-02;;;;python, sql, математическая статистика, atlassian jira, ds, data scientist, математическое моделирование, система принятия решения, go, scala, машинное обучение, модель прогнозирования потерь
+78896775;Data Scientist;Data Scientist (Геоаналитика);Москва;СБЕР;;;2023-04-04;;;;python, sql, ml, машинное обучение
+77181469;Data Scientist;Data scientist / Аналитик риск-моделей;Москва;МФК ВЭББАНКИР;;;2023-04-06;120000;300000;RUR;python, sql, sas, анализ данных, математическая статистика
+78331454;Data Scientist;Data Scientist (middle);Москва;Композиты России;;;2023-04-05;;;;python, nlp, ml, numpy, pandas, machine learning, data science, tensorflow, sklearn, dl, rl, sql, cv
+78913351;Data Scientist;Data Scientist (математическое моделирование);Москва;РОСБАНК;;;2023-04-04;;;;пвр, irb, pd/lgd
+78834164;Data Scientist;Data Scientist;Москва;Газпром нефть;;;2023-04-03;;;;python, ml, ms sql, pandas, numpy, sсipy
 76827021;Data Scientist;Data Scientist / ML Инженер;Москва;Stellar Labs;;;2023-04-04;;;;
-77737078;Data Scientist;Data Scientist;Москва;Литрес;;;2023-04-02;;;;
-78769739;Data Scientist;Data Scientist / Дата-сайентист;Москва;Datanomica;;;2023-03-31;;;;
-77316163;Data Scientist;Data Scientist (DMAG);Москва;Лаборатория Касперского;;;2023-04-03;;;;
-78888209;Data Scientist;Руководитель направления валидации моделей (Data Scientist);Москва;Банк Хоум Кредит;;;2023-04-04;;;;
-77813590;Data Scientist;Data Scientist;Москва;СБЕР;;;2023-04-03;;;;
-78959208;Data Scientist;Data Scientist (Middle);Москва;Газпромбанк;;;2023-04-05;;;;
-78680130;Data Scientist;Data Scientist / ML-инженер;Москва;Медиалогия;;;2023-03-29;;;;
-78672191;Data Scientist;Data Scientist;Москва;СБЕР;;;2023-04-04;;;;
-78825121;Data Scientist;Руководитель направления (Data scientist);Москва;Московский Кредитный Банк;;;2023-04-03;;;;
-78137233;Data Scientist;Lead Data Scientist;Москва;Aimers;;;2023-04-03;;;;
-78596130;Data Scientist;Data scientist Middle;Москва;билайн;;;2023-04-02;;;;
-76536709;Data Scientist;Data Scientist (LTV);Москва;билайн;;;2023-04-03;;;;
-78894061;Data Scientist;Senior/middle Data Scientist;Москва;СБЕР;;;2023-04-04;;;;
+78959208;Data Scientist;Data Scientist (Middle);Москва;Газпромбанк;;;2023-04-05;;;;python, sql, ml, ds
+77737078;Data Scientist;Data Scientist;Москва;Литрес;;;2023-04-02;;;;python, rest api, sql
+78706463;Data Scientist;Data Scientist;Москва;Точка;;;2023-03-30;;300000;RUR;нейросети, python, машинное обучение, nlp, ml, gan, sql
+77316163;Data Scientist;Data Scientist (DMAG);Москва;Лаборатория Касперского;;;2023-04-03;;;;machine learning, spark, docker, python
+78596130;Data Scientist;Data scientist Middle;Москва;билайн;;;2023-04-05;;;;
+78888209;Data Scientist;Руководитель направления валидации моделей (Data Scientist);Москва;Банк Хоум Кредит;;;2023-04-04;;;;python, sql, математическая статистика, data analysis, теория вероятностей, data science, pandas
+78672191;Data Scientist;Data Scientist;Москва;СБЕР;;;2023-04-04;;;;sql, python, etl, spark
+77813590;Data Scientist;Data Scientist;Москва;СБЕР;;;2023-04-03;;;;python, ml, pandas, machine learning, data science, hadoop, computer vision, deep learning
+79008198;Data Scientist;Middle data scientist NLP;Москва;Национальный исследовательский университет Высшая школа экономики;;;2023-04-06;;150000;RUR;python, pytorch, sklearn, linux, numpy, pandas, deep learning, git
+78769739;Data Scientist;Data Scientist / Дата-сайентист;Москва;Datanomica;;;2023-03-31;;;;python, математическая статистика, machine learning, big data, pyspark, spark
 76974214;Data Scientist;Data scientist (Ценообразование);Москва;Спортмастер;;;2023-04-04;;;;
+78894061;Data Scientist;Senior/middle Data Scientist;Москва;СБЕР;;;2023-04-04;;;;python, nlp, c++, ml
+78137233;Data Scientist;Lead Data Scientist;Москва;Aimers;;;2023-04-06;;;;data science, time series analysis
+76536709;Data Scientist;Data Scientist (LTV);Москва;билайн;;;2023-04-06;;;;python, linux, sql, математическая статистика, hadoop, git, atlassian jira, spark, data sciense, анализ данных, analysis, статистика, big data, статистический анализ
+78680130;Data Scientist;Data Scientist / ML-инженер;Москва;Медиалогия;;;2023-03-29;;;;python, adobe photoshop, аналитические исследования, аналитическое мышление, статистический анализ, machine learning, neural networks, deep learning, data science, data analysis, data mining, big data, анализ данных
+78825121;Data Scientist;Руководитель направления (Data scientist);Москва;Московский Кредитный Банк;;;2023-04-03;;;;
+69379894;Data Scientist;Инженер / Data Scientist;Москва;ГБУЗ «Научно-практический клинический центр диагностики и телемедицинских технологий ДЗМ»;;;2023-04-04;;;;медицинское оборудование, написание научный статей, научная деятельность, научные исследования
+78823109;Data Scientist;Data Scientist (Рекомендательная система);Москва;СБЕР;;;2023-04-03;;;;python, numpy, pandas, математическая статистика, scikit-learn
+68115103;Data Scientist;Data Scientist (Рекомендательные системы);Москва;СБЕР;;;2023-04-06;;;;python, hadoop, spark, docker, sql, openshift
 78707376;Data Scientist;Data Scientist (ML Space);Москва;Cloud;;;2023-03-30;;;;
-69379894;Data Scientist;Инженер / Data Scientist;Москва;ГБУЗ «Научно-практический клинический центр диагностики и телемедицинских технологий ДЗМ»;;;2023-04-04;;;;
-78656512;Data Scientist;Data Scientist;Москва;Finbridge;;;2023-03-29;;;;
-78758907;Data Scientist;Data Scientist middle/senior;Москва;X5 Tech;;;2023-03-31;;;;
-78823109;Data Scientist;Data Scientist (Рекомендательная система);Москва;СБЕР;;;2023-04-03;;;;
-78740551;Data Scientist;Data Scientist (HR-модели);Москва;Газпромбанк;;;2023-03-30;;;;
-68115103;Data Scientist;Data Scientist (Рекомендательные системы);Москва;СБЕР;;;2023-04-04;;;;
-77567000;Data Scientist;Senior\Middle Data Scientist (Big Data);Москва;ОТП Банк, АО (OTP bank);;;2023-03-27;250000;400000;RUR;
-70243733;Data Scientist;Data Scientist;Москва;Lamoda Tech;;;2023-03-30;;;;
-78736467;Data Scientist;Разработчик-исследователь / Data Scientist в Data Office;Москва;VK;;;2023-03-30;;;;
-77899629;Data Scientist;Senior NLP Engineer / Data Scientist;Москва;КИБЕР-РОМ;;;2023-04-03;200000;300000;RUR;
 54829296;Data Scientist;Data scientist (Персонализация);Москва;Спортмастер;;;2023-04-04;;;;
-78686420;Data Scientist;Data Scientist в команду CVM AI;Москва;Райффайзен Банк;;;2023-03-29;;;;
-77408771;Data Scientist;Data Scientist (Computer Vision);Москва;БиАйЭй-Технолоджиз;;;2023-03-31;;;;
-77409086;Data Scientist;Data scientist;Москва;ЦИФРОВЫЕ ТЕХНОЛОГИИ ЗДОРОВЬЯ;;;2023-03-29;;;;
+78740551;Data Scientist;Data Scientist (HR-модели);Москва;Газпромбанк;;;2023-03-30;;;;python, sql, git, atlassian jira, анализ данных
+77567000;Data Scientist;Senior\Middle Data Scientist (Big Data);Москва;ОТП Банк, АО (OTP bank);;;2023-03-27;250000;400000;RUR;python, sql, git
+78656512;Data Scientist;Data Scientist;Москва;Finbridge;;;2023-03-29;;;;
+78758907;Data Scientist;Data Scientist middle/senior;Москва;X5 Tech;;;2023-03-31;;;;python, hadoop, big data, machine learning
+78736467;Data Scientist;Разработчик-исследователь / Data Scientist в Data Office;Москва;VK;;;2023-03-30;;;;
+76939405;Data Scientist;Data scientist (Middle+\Senior);Москва;МегаФон;;;2023-04-05;;;;sql, hadoop, python, pyspark, airflow
+79012262;Data Scientist;Middle/Senior Data scientist (Computer Vision);Москва;СБЕР;;;2023-04-06;;;;python, nlp, computer vision, sql
 75981474;Data Scientist;Data scientist (RecSys);Москва;Спортмастер;;;2023-04-04;;;;
-78507209;Data Scientist;Data scientist (math modeling);Москва;ITSS;;;2023-03-24;317435;793588;RUR;
-78959033;Data Scientist;Data Scientist (Senior);Москва;Газпромбанк;;;2023-04-05;;;;
-76939405;Data Scientist;Data scientist (Middle+\Senior);Москва;МегаФон;;;2023-04-05;;;;
-67411146;Data Scientist;Data Scientist, Ранжирование поиска;Москва;Ozon;;;2023-03-29;;;;
-78962457;Data Scientist;Senior/ Team Lead Data Scientist в ML-команду;Москва;СБЕР;;;2023-04-05;;;;
+70243733;Data Scientist;Data Scientist;Москва;Lamoda Tech;;;2023-03-30;;;;
+77408771;Data Scientist;Data Scientist (Computer Vision);Москва;БиАйЭй-Технолоджиз;;;2023-03-31;;;;python, pytorch, opencv, computer vision, tensorflow
+76391976;Data Scientist;Data Scientist на проект «Синтез речи» (remote);Москва;АБК;;;2023-04-05;;;;rnd, python, linux, git, sql, pytorch, data science, нейронные сети, etl
+78959033;Data Scientist;Data Scientist (Senior);Москва;Газпромбанк;;;2023-04-05;;;;python, sql, ml, ds
+77899629;Data Scientist;Senior NLP Engineer / Data Scientist;Москва;КИБЕР-РОМ;;;2023-04-06;;370000;RUR;python, go, c++, torch, catboost, postgresql, greenplum, mongodb, clickhouse, redis, opensearch, rabbitmq, kafka, k8s, docker, argocd, helm, airflow, superset, ml-flow, git-lab, elk, grafana, prometheus
+78507209;Data Scientist;Data scientist (math modeling);Москва;ITSS;;;2023-03-24;317990;794976;RUR;математика, data science, phd, финансы, c/c++, matlab, математическое моделирование, английский язык, математический анализ, финансы, python, kaggel
+78900581;Data Scientist;Team lead \ Senior Data Scientist (команда перспективных алгоритмов машинного обучения);Москва;Банк ВТБ (ПАО);;;2023-04-04;;;;python, spark, hadoop, hive, ml, sql, pytorch
+78686420;Data Scientist;Data Scientist в команду CVM AI;Москва;Райффайзен Банк;;;2023-03-29;;;;
+78883015;Data Scientist;Senior Data Scientist;Москва;Positive Technologies;;;2023-04-04;;;;python, machine learning, web security, sklearn, pytorch, docker
 78878339;Data Scientist;Lead Data Scientist NLP;Москва;СБЕР;;;2023-04-04;;;;
-78900581;Data Scientist;Team lead \ Senior Data Scientist (команда перспективных алгоритмов машинного обучения);Москва;Банк ВТБ (ПАО);;;2023-04-04;;;;
-78883015;Data Scientist;Senior Data Scientist;Москва;Positive Technologies;;;2023-04-04;;;;
-76391976;Data Scientist;Data Scientist на проект «Синтез речи» (remote);Москва;АБК;;;2023-04-05;;;;
-78618131;Data Scientist;Специалист по машинному обучению и анализу данных / Data Scientist;Москва;Марс;;;2023-03-28;;;;
-78642657;Data Scientist;Data Scientist (MyTracker);Москва;VK;;;2023-03-28;;;;
-78120333;Data Scientist;Data Scientist, Товарные рекомендации;Москва;Ozon;;;2023-03-29;;;;
-78663746;Data Scientist;Data Scientist / ML-инженер (Big Data);Москва;МТС;;;2023-03-29;;;;
+67411146;Data Scientist;Data Scientist, Ранжирование поиска;Москва;Ozon;;;2023-03-29;;;;python, data science, разработка поисковых технологий, it
+77471619;Data Scientist;Middle/Senior Data Scientist [команда Поиска];Москва;СберМаркет;;;2023-04-06;;;;python, nlp, pandas, machine learning, ml, data science
 78934453;Data Scientist;Senior Data Scientist (NLP);Москва;СБЕР;;;2023-04-05;;;;
+78625975;Data Scientist;Senior Data Scientist;Москва;Rutube;;;2023-04-05;;;;python, sql, git, linux, математическая статистика, postgresql, pytorch, nlp, kafka, bash, docker, machine learning, rabbitmq, tensorflow, word2vec
+76954383;Data Scientist;Lead data scientist (Анализ цены и Trade in);Москва;Домклик;;;2023-04-06;;;;
+78962457;Data Scientist;Senior/ Team Lead Data Scientist в ML-команду;Москва;СБЕР;;;2023-04-05;;;;
+77818891;Data Scientist;Data Scientist middle+/senior (Транскодинг);Москва;Okko;;;2023-04-04;;;;python, sql, machine learning, сomputer vision
+78120333;Data Scientist;Data Scientist, Товарные рекомендации;Москва;Ozon;;;2023-03-29;;;;python, pytorch, hadoop, data science, разработка поисковых технологий, it
 78754613;Data Scientist;Data scientist (Центр валидации моделей розничного бизнеса);Москва;СБЕР;;;2023-03-31;;;;
-76954383;Data Scientist;Lead data scientist (Анализ цены и Trade in);Москва;Домклик;;;2023-04-03;;;;
-78570367;Data Scientist;Data Scientist;Москва;Ртк-Элемент;;;2023-03-27;;;;
-78627603;Data Scientist;Data Scientist;Москва;БАНК УРАЛСИБ;;;2023-03-28;;;;
-76491071;Data Scientist;Middle+ Data Scientist на продукт Маркетолог (Big Data);Москва;МТС;;;2023-04-02;;;;
-78625975;Data Scientist;Senior Data Scientist;Москва;Rutube;;;2023-04-05;;;;
-77818891;Data Scientist;Data Scientist middle+/senior (Транскодинг);Москва;Okko;;;2023-04-04;;;;
-78909534;Data Scientist;Senior Data Scientist (Комплайнс);Москва;СБЕР;;;2023-04-04;;;;
-75546387;Data Scientist;Data Scientist (Почта);Москва;VK;;;2023-03-28;;;;
-78692078;Data Scientist;Data Scientist в команду Товарных Рекомендаций;Москва;WILDBERRIES;;;2023-03-29;;;;
-76914442;Data Scientist;Аналитик / Data scientist;Москва;OKKAM;;;2023-03-27;;;;
-77557350;Data Scientist;Аналитик данных/Middle Data scientist (Computer Vision);Москва;Северсталь;;;2023-03-29;;;;
-78081929;Data Scientist;Старший научный сотрудник / Data Scientist / AI researcher / Цифровые двойники / Big Data;Москва;Академия ГПС МЧС России;;;2023-03-30;100000;120000;RUR;
-78259023;Data Scientist;Data Scientist;Москва;Индустриальные Рекомендательные Информационные Системы;;;2023-03-20;200000;250000;RUR;
+78909534;Data Scientist;Senior Data Scientist (Комплайнс);Москва;СБЕР;;;2023-04-04;;;;ml, python, pytorch
+77480809;Data Scientist;Data Scientist/ML;Москва;ВСК, САО;;;2023-03-27;;;;data science, machine learning, ml
+76491071;Data Scientist;Middle+ Data Scientist на продукт Маркетолог (Big Data);Москва;МТС;;;2023-04-02;;;;docker, airflow, hadoop, sql, machine learning, маркетинг, spark, sklearn, catboost, ml, big data, python
 78260367;Data Scientist;Data Scientist;Москва;Ренью;;;2023-03-20;250000;;RUR;
-77480809;Data Scientist;Data Scientist/ML;Москва;ВСК, САО;;;2023-03-27;;;;
+78259023;Data Scientist;Data Scientist;Москва;Индустриальные Рекомендательные Информационные Системы;;;2023-03-20;200000;250000;RUR;
+78663746;Data Scientist;Data Scientist / ML-инженер (Big Data);Москва;МТС;;;2023-03-29;;;;
+78692078;Data Scientist;Data Scientist в команду Товарных Рекомендаций;Москва;WILDBERRIES;;;2023-03-29;;;;
+77557350;Data Scientist;Аналитик данных/Middle Data scientist (Computer Vision);Москва;Северсталь;;;2023-03-29;;;;
 78405363;Data Scientist;Аналитик данных / Data Scientist;Москва;Kalinka - Realty;;;2023-03-22;150000;;RUR;
+73751357;Data Scientist;Senior Data Scientist (разработка Скоринговых моделей);Москва;Банк ВТБ (ПАО);;;2023-04-06;;;;
+78081929;Data Scientist;Старший научный сотрудник / Data Scientist / AI researcher / Цифровые двойники / Big Data;Москва;Академия ГПС МЧС России;;;2023-03-30;100000;120000;RUR;
+75546387;Data Scientist;Data Scientist (Почта);Москва;VK;;;2023-03-28;;;;
 78307298;Data Scientist;Middle Data Scientist (Sber AI Lab);Москва;СБЕР;;;2023-03-20;217750;326625;RUR;
-76461371;Data Scientist;Data Scientist;Москва;ГАУ Города Москвы Центр цифровизации образования;;;2023-03-27;;;;
 78390412;Data Scientist;Data Scientist;Москва;Лига Цифровой Экономики;;;2023-03-22;;;;
-78579825;Data Scientist;Data Scientist Time Series;Москва;СБЕР;;;2023-03-27;;;;
-78155277;Data Scientist;Junior Data Scientist;Москва;АТОН;;;2023-03-16;;;;
+78618131;Data Scientist;Специалист по машинному обучению и анализу данных / Data Scientist;Москва;Марс;;;2023-03-28;;;;
+77409086;Data Scientist;Data scientist;Москва;ЦИФРОВЫЕ ТЕХНОЛОГИИ ЗДОРОВЬЯ;;;2023-03-29;;;;
 75789450;Data Scientist;Data Scientist;Москва;КСОР;;;2023-03-20;220000;270000;RUR;
+78642657;Data Scientist;Data Scientist (MyTracker);Москва;VK;;;2023-03-28;;;;
+78155277;Data Scientist;Junior Data Scientist;Москва;АТОН;;;2023-03-16;;;;
+76461371;Data Scientist;Data Scientist;Москва;ГАУ Города Москвы Центр цифровизации образования;;;2023-03-27;;;;
+78579825;Data Scientist;Data Scientist Time Series;Москва;СБЕР;;;2023-03-27;;;;
+78627603;Data Scientist;Data Scientist;Москва;БАНК УРАЛСИБ;;;2023-03-28;;;;
 77132650;Data Scientist;Data Scientist, Поисковые подсказки;Москва;Ozon;;;2023-03-29;;;;
+78570367;Data Scientist;Data Scientist;Москва;Ртк-Элемент;;;2023-03-27;;;;
 78775402;Data Scientist;Senior Data Scientist (Research Scientist);Москва;СБЕР;;;2023-03-31;;;;
 72736408;Data Scientist;Data Scientist (Global Markets);Москва;СБЕР;;;2023-03-23;;;;
-78568157;Data Scientist;Data Scientist (главный исследователь данных по КАСКО);Москва;ВСК, САО;;;2023-03-27;;;;
-72740316;Data Scientist;Quant / Data Scientist (Руководитель направления Управление рисками);Москва;ДОМ.РФ;;;2023-03-30;;;;
-78373823;Data Scientist;Data scientist;Москва;Банки.ру;;;2023-03-21;;;;
 78014671;Data Scientist;Data Scientist;Москва;Patron.;;;2023-03-14;250000;300000;RUR;
+78373823;Data Scientist;Data scientist;Москва;Банки.ру;;;2023-03-21;;;;
 77656659;Data Scientist;Data Scientist;Москва;IEK GROUP;;;2023-03-27;;;;
+78568157;Data Scientist;Data Scientist (главный исследователь данных по КАСКО);Москва;ВСК, САО;;;2023-03-27;;;;
+77972920;Data Scientist;Junior Data Scientist в команду b2c;Москва;СБЕР;;;2023-03-13;;;;
+72740316;Data Scientist;Quant / Data Scientist (Руководитель направления Управление рисками);Москва;ДОМ.РФ;;;2023-03-30;;;;
+77815752;Data Scientist;Senior Data Scientist;Москва;Самокат (ООО Умное пространство);;;2023-03-29;;;;
 78711110;Data Scientist;Data scientist (Управление рисками корпоративных клиентов);Москва;СБЕР;;;2023-03-30;;;;
 73254140;Data Scientist;Data Scientist (Predict);Москва;VK;;;2023-03-24;;;;
-77815752;Data Scientist;Senior Data Scientist;Москва;Самокат (ООО Умное пространство);;;2023-03-29;;;;
-77972920;Data Scientist;Junior Data Scientist в команду b2c;Москва;СБЕР;;;2023-03-13;;;;
-77181469;Data Scientist;Data scientist / Аналитик риск-моделей;Москва;МФК ВЭББАНКИР;;;2023-03-20;120000;300000;RUR;
-78786481;Data Scientist;"Senior Data Scientist (""Платформа экспериментов"")";Москва;Okko;;;2023-03-31;;;;
-76420732;Data Scientist;Senior/Lead Data Scientist на продукт MTS Travel (Big Data);Москва;МТС;;;2023-04-01;;;;
 78117577;Data Scientist;Специалист Data Scientist;Москва;Институт геологии и разработки горючих ископаемых;;;2023-03-16;;;;
-78524520;Data Scientist;Data Scientist;Москва;Восточная горнорудная компания;;;2023-03-24;;;;
-78121640;Data Scientist;Data Scientist;Москва;Центр 2М;;;2023-03-16;;;;
 77472643;Data Scientist;Middle/Senior Data Scientist (Operations);Москва;СберМаркет;;;2023-03-27;;;;
-73751357;Data Scientist;Senior Data Scientist (разработка Скоринговых моделей);Москва;Банк ВТБ (ПАО);;;2023-03-30;;;;
-78405101;Data Scientist;Data Scientist / ML-engineer (Middle+) со знание python в проект по искусственному интеллекту;Москва;ПАВЛИН ТЕХНО;;;2023-03-22;150000;;RUR;
-78633730;Data Scientist;Senior Data Scientist;Москва;ЕвроХим, Минерально-Химическая Компания;;;2023-03-28;;;;
-78094820;Data Scientist;Data Scientist;Москва;СБЕР;;;2023-03-15;;;;
-78265110;Data Scientist;Senior Data Scientist;Москва;Сеть Партнерств;;;2023-03-20;300000;;RUR;
-78042103;Data Scientist;Senior Data Scientist, Анализ текста (DS/NLP);Москва;WILDBERRIES;;;2023-03-27;;;;
-78253085;Data Scientist;Data Scientist (Северсталь Диджитал);Москва;Северсталь;;;2023-03-20;;;;
-77471619;Data Scientist;Middle/Senior Data Scientist [команда Поиска];Москва;СберМаркет;;;2023-03-28;;;;
-78330725;Data Scientist;Middle Data Scientist (модели кредитного риска);Москва;Альфа-Банк;;;2023-03-21;;;;
-78330086;Data Scientist;Data scientist;Москва;ЛОКО-БАНК;;;2023-03-21;;;;
-77470908;Data Scientist;Middle/Senior Data Scientist [команда Content];Москва;СберМаркет;;;2023-03-28;;;;
+78524520;Data Scientist;Data Scientist;Москва;Восточная горнорудная компания;;;2023-03-24;;;;
+78786481;Data Scientist;"Senior Data Scientist (""Платформа экспериментов"")";Москва;Okko;;;2023-03-31;;;;
+78121640;Data Scientist;Data Scientist;Москва;Центр 2М;;;2023-03-16;;;;
+76420732;Data Scientist;Senior/Lead Data Scientist на продукт MTS Travel (Big Data);Москва;МТС;;;2023-04-01;;;;
 73728017;Data Scientist;Аналитик данных / Data Scientist;Москва;ГКУ Инфогород;;;2023-03-20;;;;
-78440207;Data Scientist;Data Scientist (Senior);Москва;Газпромбанк;;;2023-03-23;;;;
-76274433;Data Scientist;Data Scientist Middle/Senior (Моделирование RnD);Москва;Иннотех, Группа компаний;;;2023-03-22;;;;
-78523579;Data Scientist;Middle+/Senior Data Scientist в Блок Финансы;Москва;СБЕР;;;2023-03-24;;;;
-78663639;Data Scientist;Senior Data Scientist в Scoring Platform (Big Data);Москва;МТС;;;2023-03-29;;;;
-78387709;Data Scientist;Data Scientist в команду лояльности СберСпасибо;Москва;СБЕР;;;2023-03-22;;;;
+78405101;Data Scientist;Data Scientist / ML-engineer (Middle+) со знание python в проект по искусственному интеллекту;Москва;ПАВЛИН ТЕХНО;;;2023-03-22;150000;;RUR;
 69774676;Data Scientist;Data scientist;Москва;VK;;;2023-03-21;;;;
-76165484;Data Scientist;Data Scientist;Москва;Детский Мир;;;2023-03-20;;;;
-78029161;Data Scientist;Аналитик данных (data scientist);Москва;Промышленные инновации;;;2023-03-14;;;;
-77471270;Data Scientist;Lead Data Scientist (RecSys);Москва;СберМаркет;;;2023-03-27;;;;
-77472379;Data Scientist;Middle/Senior Data Scientist (RecSys);Москва;СберМаркет;;;2023-03-27;;;;
+78265110;Data Scientist;Senior Data Scientist;Москва;Сеть Партнерств;;;2023-03-20;300000;;RUR;
+78253085;Data Scientist;Data Scientist (Северсталь Диджитал);Москва;Северсталь;;;2023-03-20;;;;
+78094820;Data Scientist;Data Scientist;Москва;СБЕР;;;2023-03-15;;;;
+78633730;Data Scientist;Senior Data Scientist;Москва;ЕвроХим, Минерально-Химическая Компания;;;2023-03-28;;;;
+78042103;Data Scientist;Senior Data Scientist, Анализ текста (DS/NLP);Москва;WILDBERRIES;;;2023-03-27;;;;
+78330086;Data Scientist;Data scientist;Москва;ЛОКО-БАНК;;;2023-03-21;;;;
 70903553;Data Scientist;Data Scientist (сопровождение процесса разработки и использования моделей);Москва;Банк ВТБ (ПАО);;;2023-03-23;;;;
+77470908;Data Scientist;Middle/Senior Data Scientist [команда Content];Москва;СберМаркет;;;2023-03-28;;;;
+77472379;Data Scientist;Middle/Senior Data Scientist (RecSys);Москва;СберМаркет;;;2023-03-27;;;;
+76274433;Data Scientist;Data Scientist Middle/Senior (Моделирование RnD);Москва;Иннотех, Группа компаний;;;2023-03-22;;;;
+78440207;Data Scientist;Data Scientist (Senior);Москва;Газпромбанк;;;2023-03-23;;;;
+78029161;Data Scientist;Аналитик данных (data scientist);Москва;Промышленные инновации;;;2023-03-14;;;;
+78523579;Data Scientist;Middle+/Senior Data Scientist в Блок Финансы;Москва;СБЕР;;;2023-03-24;;;;
+78330725;Data Scientist;Middle Data Scientist (модели кредитного риска);Москва;Альфа-Банк;;;2023-03-21;;;;
+78663639;Data Scientist;Senior Data Scientist в Scoring Platform (Big Data);Москва;МТС;;;2023-03-29;;;;
+76165484;Data Scientist;Data Scientist;Москва;Детский Мир;;;2023-03-20;;;;
+76663333;Data Scientist;Middle Data Scientist;Москва;Банк ВТБ (ПАО);;;2023-03-22;;;;
+77471270;Data Scientist;Lead Data Scientist (RecSys);Москва;СберМаркет;;;2023-03-27;;;;
 78280966;Data Scientist;Data Scientist (ML Engineer);Москва;СОГАЗ;;;2023-03-20;;;;
 78374362;Data Scientist;Data Scientist;Москва;Атом Майнинг;;;2023-03-21;;;;
+78387709;Data Scientist;Data Scientist в команду лояльности СберСпасибо;Москва;СБЕР;;;2023-03-22;;;;
 76913797;Data Scientist;Data-Scientist / Дата-сайентист;Москва;Employcity;;;2023-03-14;;;;
-78711069;Data Scientist;Senior Data scientist (Управление рисками корпоративных клиентов);Москва;СБЕР;;;2023-03-30;;;;
 77471529;Data Scientist;Lead Data Scientist (Operations);Москва;СберМаркет;;;2023-03-27;;;;
-76663333;Data Scientist;Middle Data Scientist;Москва;Банк ВТБ (ПАО);;;2023-03-22;;;;
-78334481;Data Scientist;Data Scientist (Валидация моделей кредитного риска КИБ);Москва;СБЕР;;;2023-03-21;;;;
-72736422;Data Scientist;Middle/Senior Data Scientist;Москва;СБЕР;;;2023-03-23;;;;
-71354549;Data Scientist;Chief Data Scientist / DS Team Lead;Москва;Вкусно — и точка;;;2023-03-22;;;;
-71322369;Data Scientist;Data Scientist Middle/Senior;Москва;Вкусно — и точка;;;2023-03-22;;;;
-78410566;Data Scientist;Senior Data Scientist (ML);Москва;Группа НЛМК;;;2023-03-22;;;;
 78102671;Data Scientist;Data Scientist;Москва;Банк Открытие;;;2023-03-15;;;;
-73577736;Data Scientist;Data scientist (junior/middle), команда разработки портфельных моделей;Москва;Банк ВТБ (ПАО);;;2023-03-10;;;;
-78102902;Data Scientist;Data Scientist;Москва;ВСК, САО;;;2023-03-15;;;;
-78056289;Data Scientist;Data Scientist CV;Москва;СБЕР;;;2023-03-14;;;;
 78025182;Data Scientist;Data Scientist;Москва;Ингосстрах;;;2023-03-14;;;;
-78142680;Data Scientist;Middle Data Scientist;Москва;СБЕР;;;2023-03-16;;;;
-78259386;Data Scientist;Team lead Data scientist;Москва;МегаФон;;;2023-03-20;;;;
-76145682;Data Scientist;Middle Data Scientist (команда перспективных алгоритмов машинного обучения);Москва;Банк ВТБ (ПАО);;;2023-03-17;;;;
-78447935;Data Scientist;Senior Data Scientist (оценка моделей);Москва;РОСБАНК;;;2023-03-23;;;;
+78334481;Data Scientist;Data Scientist (Валидация моделей кредитного риска КИБ);Москва;СБЕР;;;2023-03-21;;;;
+78056289;Data Scientist;Data Scientist CV;Москва;СБЕР;;;2023-03-14;;;;
+71354549;Data Scientist;Chief Data Scientist / DS Team Lead;Москва;Вкусно — и точка;;;2023-03-22;;;;
+78711069;Data Scientist;Senior Data scientist (Управление рисками корпоративных клиентов);Москва;СБЕР;;;2023-03-30;;;;
 78471224;Data Scientist;Senior Data Scientist;Москва;СБЕР;;;2023-03-23;;;;
-78271635;Data Scientist;Middle Data Scientist в центр маркетинговой аналитики (Big Data);Москва;МТС;;;2023-03-20;;;;
+72736422;Data Scientist;Middle/Senior Data Scientist;Москва;СБЕР;;;2023-03-23;;;;
+78259386;Data Scientist;Team lead Data scientist;Москва;МегаФон;;;2023-03-20;;;;
+71322369;Data Scientist;Data Scientist Middle/Senior;Москва;Вкусно — и точка;;;2023-03-22;;;;
+78102902;Data Scientist;Data Scientist;Москва;ВСК, САО;;;2023-03-15;;;;
+73577736;Data Scientist;Data scientist (junior/middle), команда разработки портфельных моделей;Москва;Банк ВТБ (ПАО);;;2023-03-10;;;;
 76281676;Data Scientist;Middle Data Scientist (Скоринги Партнерств и ПБД);Москва;Иннотех, Группа компаний;;;2023-03-22;;;;
-78169151;Data Scientist;Data Scientist (Динамическое ценообразование);Москва;СБЕР;;;2023-03-17;;;;
+78142680;Data Scientist;Middle Data Scientist;Москва;СБЕР;;;2023-03-16;;;;
+78410566;Data Scientist;Senior Data Scientist (ML);Москва;Группа НЛМК;;;2023-03-22;;;;
 76261820;Data Scientist;Data Scientist Middle (КИБ и СМБ);Москва;Иннотех, Группа компаний;;;2023-03-22;;;;
-77971296;Data Scientist;Data scientist / Дата аналитик / Аналитик массивов данных;Москва;АЙТИ.СПЕЙС;;;2023-03-13;;200000;RUR;
-78078858;Data Scientist;Data Scientist (Центр валидации моделей сервисных блоков и экосистемы);Москва;СБЕР;;;2023-03-15;;;;
+78241386;Data Scientist;Data scientist (middle);Москва;Звено Успеха;;;2023-03-19;;;;
+78271635;Data Scientist;Middle Data Scientist в центр маркетинговой аналитики (Big Data);Москва;МТС;;;2023-03-20;;;;
+76145682;Data Scientist;Middle Data Scientist (команда перспективных алгоритмов машинного обучения);Москва;Банк ВТБ (ПАО);;;2023-03-17;;;;
+78169151;Data Scientist;Data Scientist (Динамическое ценообразование);Москва;СБЕР;;;2023-03-17;;;;
 78300280;Data Scientist;Data Scientist senior;Москва;СБЕР;;;2023-03-20;;;;
+78078858;Data Scientist;Data Scientist (Центр валидации моделей сервисных блоков и экосистемы);Москва;СБЕР;;;2023-03-15;;;;
+77971296;Data Scientist;Data scientist / Дата аналитик / Аналитик массивов данных;Москва;АЙТИ.СПЕЙС;;;2023-03-13;;200000;RUR;
+78447935;Data Scientist;Senior Data Scientist (оценка моделей);Москва;РОСБАНК;;;2023-03-23;;;;
 78381741;Data Scientist;Senior Data Scientist;Москва;Контур;;;2023-03-22;;;;
 78082039;Data Scientist;Middle Data Scientist (NLP, NER);Москва;ФГБУ ЦСП ФМБА России;;;2023-03-15;;;;
 78043382;Data Scientist;Senior Data Scientist;Москва;ГПМ Партнер;;;2023-03-22;;;;
 77808741;Data Scientist;Data Scientist (Центр валидации моделей КИБ);Москва;СБЕР;;;2023-03-09;;;;
-78241386;Data Scientist;Data scientist (middle);Москва;Звено Успеха;;;2023-03-19;;;;
 67136583;Data Scientist;Data Scientist;Москва;СБЕР;;;2023-03-10;;;;
 76610825;Data Scientist;Senior Data Scientist;Москва;СБЕР;;;2023-03-10;;;;
-77771706;Data Scientist;Data Scientist (Research Scientist);Москва;СБЕР;;;2023-03-07;;;;
 77842304;Data Scientist;Data scientist (Гео и графы);Москва;СБЕР;;;2023-03-09;;;;
 77865257;Data Scientist;Machine Learning Engineer (Data Scientist);Москва;Brands Go Digital;;;2023-03-10;;;;
+68148229;Data Scientist;Data Scientist (SberDevices);Москва;СБЕР;;;2023-03-13;;;;
 76822951;Data Scientist;Senior Data Scientist (-Fintech-);Москва;Netex24;;;2023-03-11;;250000;RUR;
 76655978;Data Scientist;Senior / Lead Data scientist;Москва;ПартКом;;;2023-03-20;;;;
-78300370;Data Scientist;Data Scientist – Senior/Chief;Москва;СБЕР;;;2023-03-20;;;;
-78361066;Data Scientist;Senior Data Scientist (удаленно);Москва;Вебинар Технологии;;;2023-03-21;;;;
-78164928;Data Scientist;Senior Data Scientist;Москва;Бюро кредитных историй Скоринг Бюро;;;2023-03-17;;;;
 75857475;Data Scientist;Data Scientist (Платформа рекомендаций);Москва;СБЕР;;;2023-03-13;;;;
-78272278;Data Scientist;Senior Data Scientist;Москва;ОКБ;;;2023-03-20;;;;
+78164928;Data Scientist;Senior Data Scientist;Москва;Бюро кредитных историй Скоринг Бюро;;;2023-03-17;;;;
+78300370;Data Scientist;Data Scientist – Senior/Chief;Москва;СБЕР;;;2023-03-20;;;;
 77973482;Data Scientist;Middle Data Scientist в команду b2c;Москва;СБЕР;;;2023-03-13;;;;
-75881375;Data Scientist;Data Scientist / Machine Learning Engineer;Москва;Центр Методического Обеспечения Оптимизации Процессов Государственного Управления в Московской области;;;2023-03-10;;;;
-68148229;Data Scientist;Data Scientist (SberDevices);Москва;СБЕР;;;2023-03-13;;;;
 67281498;Data Scientist;Data scientist, проекты по разработке симуляционных моделей, моделей оценки стресс-тестирования;Москва;Банк ВТБ (ПАО);;;2023-03-15;;;;
-77838427;Data Scientist;Data Scientist NLP;Москва;СБЕР;;;2023-03-09;;;;
+78361066;Data Scientist;Senior Data Scientist (удаленно);Москва;Вебинар Технологии;;;2023-03-21;;;;
+78272278;Data Scientist;Senior Data Scientist;Москва;ОКБ;;;2023-03-20;;;;
+75881375;Data Scientist;Data Scientist / Machine Learning Engineer;Москва;Центр Методического Обеспечения Оптимизации Процессов Государственного Управления в Московской области;;;2023-03-10;;;;
 76169521;Data Scientist;Data Scientist ядра CVM;Москва;Детский Мир;;;2023-03-13;;;;
-77987510;Data Scientist;Senior Data Scientist;Москва;АДВ;;;2023-03-13;;;;
+77838427;Data Scientist;Data Scientist NLP;Москва;СБЕР;;;2023-03-09;;;;
 77949666;Data Scientist;Middle Data Scientist (Северсталь Диджитал);Москва;Северсталь;;;2023-03-13;;;;
-77986075;Data Scientist;Senior/ Middle data scientist (жизненный цикл клиента);Москва;Банк ВТБ (ПАО);;;2023-03-13;;;;
-77840518;Data Scientist;Lead Data Scientist;Москва;Ростелеком;;;2023-03-09;;;;
+77987510;Data Scientist;Senior Data Scientist;Москва;АДВ;;;2023-03-13;;;;
 67924416;Data Scientist;Senior Data Scientist/ML Engineer SberDevices;Москва;СБЕР;;;2023-03-14;;;;
 75936388;Data Scientist;Lead Data Scientist;Москва;СБЕР;;;2023-03-17;;;;
-77074394;Data Scientist;Senior Data Scientist;Москва;СБЕР;;;2023-03-09;;;;
+77840518;Data Scientist;Lead Data Scientist;Москва;Ростелеком;;;2023-03-09;;;;
+77986075;Data Scientist;Senior/ Middle data scientist (жизненный цикл клиента);Москва;Банк ВТБ (ПАО);;;2023-03-13;;;;
 77034579;Data Scientist;Senior Data Scientist (Adtech);Москва;VK;;;2023-03-13;;;;
-77769139;Data Scientist;Lead Data Scientist;Москва;СБЕР;;;2023-03-07;;;;
+77074394;Data Scientist;Senior Data Scientist;Москва;СБЕР;;;2023-03-09;;;;
 77969504;Data Scientist;Lead Data Scientist at Sberbank Corporate | Онлайн оценка залогов;Москва;СБЕР;;;2023-03-13;;;;
 77992767;Data Scientist;Senior Data Scientist (Rec. system);Москва;Okko;;;2023-03-13;;;;
 72127423;Data Scientist;Senior data scientist (разработка моделей для казначейства и рыночных рисков);Москва;Банк ВТБ (ПАО);;;2023-03-28;;;;
 72888902;Data Scientist;Data Scientist;Москва;Группа Самолет;;;2023-04-04;;;;
-78170079;Data Scientist;Data Scientist;Москва;Цифровые привычки;;;2023-04-04;;;;
 78879508;Data Scientist;Data Scientist;Москва;Ингосстрах;;;2023-04-04;;;;
+78170079;Data Scientist;Data Scientist;Москва;Цифровые привычки;;;2023-04-04;;;;
 77075807;Data Scientist;Data Scientist;Москва;Лента, федеральная розничная сеть;;;2023-04-05;;;;
 77725684;Data Scientist;Data Scientist / ML-разработчик;Москва;СтандартПроект;;;2023-04-05;;;;
 77907673;Data Scientist;Junior Data Scientist (сопровождение процесса разработки и использования моделей);Москва;Банк ВТБ (ПАО);;;2023-04-04;;;;
-78660614;Data Scientist;Data Scientist (APAC);Москва;Finbridge;;;2023-03-29;;;;
 76734803;Data Scientist;ML-инженер (Data Scientist);Москва;Федеральная сеть книжных магазинов Читай-город;;;2023-03-31;;;;
-78657529;Data Scientist;Data scientist;Москва;ПСБ (Промсвязьбанк);;;2023-03-29;;;;
 78425859;Data Scientist;Junior Data Scientist;Москва;СБЕР;;;2023-03-22;;;;
 77604691;Data Scientist;Junior Data Scientist (отдел исследований и моделирования данных);Москва;Банк Хоум Кредит;;;2023-03-23;;;;
+78660614;Data Scientist;Data Scientist (APAC);Москва;Finbridge;;;2023-03-29;;;;
+78657529;Data Scientist;Data scientist;Москва;ПСБ (Промсвязьбанк);;;2023-03-29;;;;
 78352002;Data Scientist;Программист-стажер Data Scientist/Python;Москва;ИК СИБИНТЕК;;;2023-03-21;;;;
 78177657;Data Scientist;Стажер Data Scientist;Москва;WILDBERRIES;;;2023-03-17;;;;
-77536865;Data Scientist;Data Scientist Junior/Junior+;Москва;Вкусно — и точка;;;2023-03-15;;;;
 77425208;Data Scientist;Data scientist (Управление скоринга и Биг Дата);Москва;Банк Хоум Кредит;;;2023-03-28;;;;
+77536865;Data Scientist;Data Scientist Junior/Junior+;Москва;Вкусно — и точка;;;2023-03-15;;;;
 77957886;Data Scientist;Data Scientist (Разработчик AI/ML);Москва;Промышленные инновации;;;2023-03-13;;;;
 77906115;Data Scientist;Специалист по анализу данных (Data scientist) (проект R&D);Москва;Кадровый центр Сотрудничество;;;2023-03-10;100000;400000;RUR;
 77849018;Data Scientist;Data Scientist;Москва;ЛУКОЙЛ;;;2023-03-09;;;;
@@ -232,36 +237,36 @@ id;spec;job_title;city;employer;schedule;experience;published;salary_from;salary
 76815798;Data Scientist;Lead data scientist;Владивосток;Дром;;;2023-03-19;300000;350000;RUR;
 78249285;Data Scientist;Ведущий аудитор - Data Scientist;Хабаровск;СБЕР;;;2023-03-20;;;;
 78904147;Data Scientist;Data Scientist (NLP);Петрозаводск;К-Скай;;;2023-04-04;;;;
+79004050;Data Scientist;Data Scientist, ML (Удаленно);Санкт-Петербург;ИнтеллектДиалог;;;2023-04-06;100000;250000;RUR;
 78359038;Data Scientist;Data Scientist (логистика);Санкт-Петербург;Северный Путь;;;2023-04-05;130000;;RUR;
 78853190;Data Scientist;Младший научный сотрудник (Junior Data Scientist);Санкт-Петербург;ЦРТ | Группа компаний;;;2023-04-05;;;;
 77860632;Data Scientist;Data Scientist;Санкт-Петербург;LC Group;;;2023-04-04;;;;
 78896261;Data Scientist;Data scientist (Middle);Санкт-Петербург;СБЕР;;;2023-04-04;;;;
 77815378;Data Scientist;Data Scientist (NLP);Санкт-Петербург;СБЕР;;;2023-04-05;;;;
 78497569;Data Scientist;Data Scientist, Ранжирование поиска;Санкт-Петербург;Ozon;;;2023-03-29;;;;
-78585339;Data Scientist;Data Scientist;Санкт-Петербург;Газпром нефть;;;2023-03-27;;;;
-78453114;Data Scientist;Разработчик data scientist (python, TensorFlow);Санкт-Петербург;Виста;;;2023-03-23;60000;;RUR;
+76916740;Data Scientist;Data Scientist (Middle+/Senior);Санкт-Петербург;Центр финансовых технологий;;;2023-04-06;;;;
 78883016;Data Scientist;Senior Data Scientist;Санкт-Петербург;Positive Technologies;;;2023-04-04;;;;
+78453114;Data Scientist;Разработчик data scientist (python, TensorFlow);Санкт-Петербург;Виста;;;2023-03-23;60000;;RUR;
+77980341;Data Scientist;Программист C++ (Data scientist);Санкт-Петербург;НПК Автоматизация;;;2023-04-06;;;;
 78260313;Data Scientist;Data Scientist;Санкт-Петербург;Ренью;;;2023-03-20;250000;;RUR;
 78272528;Data Scientist;Data-Scientist (Junior/Middle/Senior) в лабораторию нейронаук;Санкт-Петербург;СБЕР;;;2023-03-20;;;;
-77980341;Data Scientist;Программист C++ (Data scientist);Санкт-Петербург;НПК Автоматизация;;;2023-04-03;;;;
-73139690;Data Scientist;Sr.Data scientist;Санкт-Петербург;Газпром нефть;;;2023-03-28;;;;
 77557349;Data Scientist;Аналитик данных/Middle Data scientist (Computer Vision);Санкт-Петербург;Северсталь;;;2023-03-29;;;;
-78506773;Data Scientist;Data Scientist (Machine Learning for Tabular Data);Санкт-Петербург;БиАйЭй-Технолоджиз;;;2023-03-24;;;;
 78407364;Data Scientist;Data Scientist;Санкт-Петербург;СБЕР;;;2023-03-22;;;;
+73139690;Data Scientist;Sr.Data scientist;Санкт-Петербург;Газпром нефть;;;2023-03-28;;;;
+78506773;Data Scientist;Data Scientist (Machine Learning for Tabular Data);Санкт-Петербург;БиАйЭй-Технолоджиз;;;2023-03-24;;;;
 78271476;Data Scientist;Data Scientist;Санкт-Петербург;Space307;;;2023-03-20;;;;
-78786488;Data Scientist;"Senior Data Scientist (""Платформа экспериментов"")";Санкт-Петербург;Okko;;;2023-03-31;;;;
 77992741;Data Scientist;Senior Data Scientist (Rec. system);Санкт-Петербург;Okko;;;2023-03-13;;;;
+78786488;Data Scientist;"Senior Data Scientist (""Платформа экспериментов"")";Санкт-Петербург;Okko;;;2023-03-31;;;;
 76934468;Data Scientist;Data scientist / Аналитик данных;Санкт-Петербург;KAMAZ DIGITAL;;;2023-03-15;;;;
 78505752;Data Scientist;Data Scientist (Deep Learning for Demand Forecast);Санкт-Петербург;БиАйЭй-Технолоджиз;;;2023-03-24;;;;
 78037374;Data Scientist;Data scientist;Санкт-Петербург;Газпром нефть;;;2023-03-14;;;;
-76829230;Data Scientist;Senior Data Scientist (Лимасол/Ереван);Санкт-Петербург;Click;;;2023-03-27;;;;
 69774675;Data Scientist;"Data scientist (проект ""Антиспам"")";Санкт-Петербург;VK;;;2023-03-21;;;;
+76829230;Data Scientist;Senior Data Scientist (Лимасол/Ереван);Санкт-Петербург;Click;;;2023-03-27;;;;
 78466689;Data Scientist;Senior/Team Lead Data Scientist;Санкт-Петербург;Волкрафт;;;2023-03-23;;250000;RUR;
 67054541;Data Scientist;Data Scientist;Санкт-Петербург;БИОКАД, биотехнологическая компания;;;2023-03-12;;;;
 78381736;Data Scientist;Senior Data Scientist;Санкт-Петербург;Контур;;;2023-03-22;;;;
 73595622;Data Scientist;Data scientist (Антиспам);Санкт-Петербург;VK;;;2023-03-17;;;;
 75656293;Data Scientist;Data Scientist (Computer Vision);Санкт-Петербург;БиАйЭй-Технолоджиз;;;2023-03-16;;;;
-76916740;Data Scientist;Middle Data Scientist;Санкт-Петербург;Центр финансовых технологий;;;2023-03-08;;;;
 77949850;Data Scientist;Middle Data Scientist (Северсталь Диджитал);Санкт-Петербург;Северсталь;;;2023-03-13;;;;
 77972056;Data Scientist;Data Scientist middle+/senior (Транскодинг);Санкт-Петербург;Okko;;;2023-03-13;;;;
 76930898;Data Scientist;Data scientist / Machine learning engineer (команда рекомендаций и машинного обучения, ВКонтакте);Санкт-Петербург;VK;;;2023-03-15;;;;
@@ -269,8 +274,8 @@ id;spec;job_title;city;employer;schedule;experience;published;salary_from;salary
 78446701;Data Scientist;Senior/Team Lead Data Scientist;Пенза;Волкрафт;;;2023-03-23;;250000;RUR;
 78883018;Data Scientist;Senior Data Scientist;Самара;Positive Technologies;;;2023-04-04;;;;
 77860634;Data Scientist;Data Scientist;Екатеринбург;LC Group;;;2023-04-04;;;;
-78576605;Data Scientist;Data Scientist;Екатеринбург;СБЕР;;;2023-03-27;;;;
 78260411;Data Scientist;Data Scientist;Екатеринбург;Ренью;;;2023-03-20;250000;;RUR;
+78576605;Data Scientist;Data Scientist;Екатеринбург;СБЕР;;;2023-03-27;;;;
 78748500;Data Scientist;Data Scientist;Тюмень;Тюменский нефтяной научный центр;;;2023-03-31;;;;
 77770294;Data Scientist;Lead Data Scientist ML/СV;Сочи;СБЕР;;;2023-04-05;;;;
 77445276;Data Scientist;Middle Data Scientist (Аналитическая обработка данных);Краснодар;МАГНИТ, Розничная сеть;;;2023-03-29;;;;
@@ -280,5 +285,5 @@ id;spec;job_title;city;employer;schedule;experience;published;salary_from;salary
 78128781;Data Scientist;Middle Data scientist (Промо Прогноз);Краснодар;МАГНИТ, Розничная сеть;;;2023-03-16;;;;
 76768895;Data Scientist;Middle Data Scientist (Клиентская аналитика);Краснодар;МАГНИТ, Розничная сеть;;;2023-03-10;;;;
 78125945;Data Scientist;Senior Data Scientist (Промо Прогноз);Краснодар;МАГНИТ, Розничная сеть;;;2023-03-16;;;;
-78771412;Data Scientist;Data Scientist / Python разработчик;Ростов-на-Дону;ЗАЗЕКС;;;2023-04-03;;;;
+78771412;Data Scientist;Data Scientist / Python разработчик;Ростов-на-Дону;ЗАЗЕКС;;;2023-04-06;;;;
 78928573;Data Scientist;Data Scientist;Таганрог;Pudov;;;2023-04-05;;;;

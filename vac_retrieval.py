@@ -98,9 +98,9 @@ for query in tqdm(queries):
                     data['salary_from'] = salary
                     data['salary_to'] = salary
                     data['currency'] = salary
-                skill = requests.get(f"{URL}/{j['id']}").json()
+                skill = requests.get(f"{URL}/{j['id']}", headers=headers, timeout=5).json()
                 if skill.get('key_skills'):
-                    data['skills'] = ', '.join([s['name'] for s in skill['key_skills']]).lower()
+                    data['skills'] = ', '.join([s['name'].lower() for s in skill['key_skills']])
                 else:
                     data['skills'] = NaN
                 result = pd.concat([result, pd.DataFrame([data])])
