@@ -17,17 +17,17 @@ load_dotenv()
 vert = ConverterHH()
 
 queries = [
-    "Data Scientist",
-    # "Системный аналитик",
-    # "Аналитик данных",
-    # "1С-аналитик",
+    # "Data Scientist",
+    "Системный аналитик",
+    "Аналитик данных",
+    "1С-аналитик",
     # "Финансовый аналитик",
     # "Маркетинговый аналитик",
     # "DataOps-инженер",
     # "Дата-журналист",
-    "Продуктовый аналитик",
-    "Аналитик BI",
-    "Дата-инженер",
+    # "Продуктовый аналитик",
+    # "Аналитик BI",
+    # "Дата-инженер",
 ]
 
 headers = {"Authorization": f'Bearer {os.getenv("TOKEN", " ")}'}
@@ -47,7 +47,7 @@ URL = "https://api.hh.ru/vacancies"
 for query in tqdm(queries):
     result = pd.DataFrame()
     for area in areas:
-        time.sleep(1)
+        time.sleep(0.5)
         pages = requests.get(
             URL,
             headers=headers,
@@ -58,8 +58,7 @@ for query in tqdm(queries):
                 "archived": False,
                 "period": 30,
                 "per_page": 100,
-            },
-            timeout=1,
+            }
         ).json()["pages"]
         for page in tqdm(range(pages)):
             data = {}
@@ -73,7 +72,7 @@ for query in tqdm(queries):
                     "archived": False,
                     "page": page,
                     "per_page": 100,
-                },
+                }
             ).json()["items"]
             for j in resp:
                 data["id"] = j["id"]
@@ -115,9 +114,12 @@ for query in tqdm(queries):
                     data['salary_from'] = salary
                     data['salary_to'] = salary
                     data['currency'] = salary
-                skill = requests.get(f"{URL}/{j['id']}", headers=headers, timeout=5).json()
+                skill = requests.get(f"{URL}/{j['id']}", headers=headers).json()
                 if skill.get('key_skills'):
-                    data['skills'] = ', '.join([s['name'].lower() for s in skill['key_skills']])
+                    time.sleep(0.5)
+                    data['skills'] = ', '.join(
+                        [s['name'] for s in skill['key_skills']]
+                        ).lower()
                 else:
                     data["skills"] = NaN
                 result = pd.concat([result, pd.DataFrame([data])])
