@@ -1,6 +1,6 @@
-id;spec;job_title;city;employer;schedule;experience;published;salary_from;salary_to;currency;skills
-70430355;DataOps-инженер;DataOps Engineer;Москва;Звук;;;2023-03-22;;;;python, docker, clickhouse, airflow, kubernetes, kafka, rabbitmq, terraform, nosql, hadoop
-77600278;DataOps-инженер;DevOps Engineer на продукт ONEtools (DataOps Platform);Москва;МТС;;;2023-03-31;;;;python, linux, git, ci/cd, prometheus, grafana, postgresql, kafka, hadoop, spark
-77495681;DataOps-инженер;DataOps engineer;Москва;VK;;;2023-03-28;;;;linux, python, clickhouse, spark, kafka, java, hadoop, администрирование серверов linux
-78269906;DataOps-инженер;Lead SRE Engineer (DataOps Platform, Big Data);Москва;МТС;;;2023-03-20;;;;devops, sla, cassandra, postgresql, ignite
-77495682;DataOps-инженер;DataOps engineer;Санкт-Петербург;VK;;;2023-03-27;;;;linux, python, clickhouse, spark, kafka, java, hadoop, администрирование серверов linux
+id;spec;job_title;city;employer;schedule;skills;experience;published;salary_from;salary_to;currency
+70430355;DataOps-инженер;DataOps Engineer;Москва;Звук;;python, docker, clickhouse, airflow, kubernetes, kafka, rabbitmq, terraform, nosql, hadoop;От 1 года до 3 лет;2023-03-22;;;
+77600278;DataOps-инженер;DevOps Engineer на продукт ONEtools (DataOps Platform);Москва;МТС;;python, linux, git, ci/cd, prometheus, grafana, postgresql, kafka, hadoop, spark;От 1 года до 3 лет;2023-03-31;;;
+77495681;DataOps-инженер;DataOps engineer;Москва;VK;;linux, python, clickhouse, spark, kafka, java, hadoop, администрирование серверов linux;От 3 до 6 лет;2023-03-28;;;
+78269906;DataOps-инженер;Lead SRE Engineer (DataOps Platform, Big Data);Москва;МТС;;devops, sla, cassandra, postgresql, ignite;Более 6 лет;2023-03-20;;;
+77495682;DataOps-инженер;DataOps engineer;Санкт-Петербург;VK;;linux, python, clickhouse, spark, kafka, java, hadoop, администрирование серверов linux;От 3 до 6 лет;2023-03-27;;;

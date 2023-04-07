@@ -17,17 +17,17 @@ load_dotenv()
 vert = ConverterHH()
 
 queries = [
-    # "Data Scientist",
+    "Data Scientist",
     "Системный аналитик",
     "Аналитик данных",
     "1С-аналитик",
-    # "Финансовый аналитик",
-    # "Маркетинговый аналитик",
-    # "DataOps-инженер",
-    # "Дата-журналист",
-    # "Продуктовый аналитик",
-    # "Аналитик BI",
-    # "Дата-инженер",
+    "Финансовый аналитик",
+    "Маркетинговый аналитик",
+    "DataOps-инженер",
+    "Дата-журналист",
+    "Продуктовый аналитик",
+    "Аналитик BI",
+    "Дата-инженер",
 ]
 
 headers = {"Authorization": f'Bearer {os.getenv("TOKEN", " ")}'}
@@ -84,8 +84,16 @@ for query in tqdm(queries):
                     data["schedule"] = j["schedule"]["name"]
                 else:
                     data["schedule"] = NaN
-                if j.get("experience"):
-                    data["experience"] = j["experience"]["name"]
+                time.sleep(0.5)
+                skill = requests.get(f"{URL}/{j['id']}", headers=headers).json()
+                if skill.get('key_skills'):
+                    data['skills'] = ', '.join(
+                        [s['name'] for s in skill['key_skills']]
+                        ).lower()
+                else:
+                    data["skills"] = NaN
+                if skill.get("experience"):
+                    data["experience"] = skill["experience"]["name"]
                 else:
                     data["experience"] = NaN
                 data["published"] = datetime.strptime(
@@ -114,14 +122,6 @@ for query in tqdm(queries):
                     data['salary_from'] = salary
                     data['salary_to'] = salary
                     data['currency'] = salary
-                skill = requests.get(f"{URL}/{j['id']}", headers=headers).json()
-                if skill.get('key_skills'):
-                    time.sleep(0.5)
-                    data['skills'] = ', '.join(
-                        [s['name'] for s in skill['key_skills']]
-                        ).lower()
-                else:
-                    data["skills"] = NaN
                 result = pd.concat([result, pd.DataFrame([data])])
 
     result.to_csv(f"results/{query}_vac.csv", sep=";", index=False)
