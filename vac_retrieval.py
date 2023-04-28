@@ -28,6 +28,7 @@ queries = [
     "Продуктовый аналитик",
     "Аналитик BI",
     "Дата-инженер",
+    "Бизнес-аналитик"
 ]
 
 headers = {"Authorization": f'Bearer {os.getenv("TOKEN", " ")}'}
@@ -125,5 +126,3 @@ for query in tqdm(queries):
                 result = pd.concat([result, pd.DataFrame([data])])
 
     result.to_csv(f"results/{query}_vac.csv", sep=";", index=False)
-
-print(time.time() - start, "СКА!!!!!")
