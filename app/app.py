@@ -2,6 +2,7 @@ import asyncio
 import os
 from pprint import pprint
 from time import sleep, time
+from typing import Optional
 
 import requests
 from aiohttp import ClientSession
@@ -16,18 +17,18 @@ load_dotenv()
 vert = ConverterHH()
 
 queries = [
-    "Data Scientist",
-    "Системный аналитик",
-    "Аналитик данных",
-    "1С-аналитик",
+    # "Data Scientist",
+    # "Системный аналитик",
+    # "Аналитик данных",
+    # "1С-аналитик",
     "Финансовый аналитик",
-    "Маркетинговый аналитик",
-    "DataOps-инженер",
-    "Дата-журналист",
-    "Продуктовый аналитик",
-    "Аналитик BI",
-    "Дата-инженер",
-    "Бизнес-аналитик",
+    # "Маркетинговый аналитик",
+    # "DataOps-инженер",
+    # "Дата-журналист",
+    # "Продуктовый аналитик",
+    # "Аналитик BI",
+    # "Дата-инженер",
+    # "Бизнес-аналитик",
 ]
 
 headers = {"Authorization": f'Bearer {os.getenv("TOKEN", " ")}'}
@@ -49,8 +50,8 @@ params = {
 }
 
 
-async def get_response(client, *args, **kwargs):
-    sleep(0.1)
+async def get_response(client: ClientSession, *args, **kwargs) -> dict:
+    await asyncio.sleep(2)
     response = await client.get(*args, **kwargs)
     return await response.json()
 
@@ -59,26 +60,9 @@ async def get_response(client, *args, **kwargs):
 #     client = ClientSession()
 
 
-def get_number_pages():
-    result = []
-    print('====РЕГИОНЫ====')
-    for area in tqdm(areas):
-        params["area"] = area
-        print('+++++ПРОФЕССИИИ')
-        for query in tqdm(queries):
-            params["text"] = query
-            respons = requests.get(
-                url=URL, params=params, headers=headers
-            ).json()
-            if len(respons["items"]) > 0:
-                result.append(
-                    {"query": query, "area": area, "pages": respons["pages"]}
-                )
-
-    return result
-
-
-async def get_dict_pages(client, area, query):
+async def get_dict_pages(
+    client: ClientSession, area: str, query: str
+) -> Optional[dict]:
     params["area"] = area
     params["text"] = query
     response = await get_response(client, URL, params=params)
@@ -86,29 +70,68 @@ async def get_dict_pages(client, area, query):
         return {"query": query, "area": area, "pages": response["pages"]}
 
 
-# async def get_number_pages(client):
-#     result = []
-#     print('====РЕГИОНЫ====')
-#     for area_chunk in tqdm(chunked(areas, 2)):
-#         coros = []
-#         for area in area_chunk:
-#             print('++++ПРОФЕССИИ+++++')
-#             for query in tqdm(queries):
-#                 coros.append(get_dict_pages(client, area, query))
-#         result_coros = await asyncio.gather(*coros)
-#         result_coros = [res for res in result_coros if res is not None]
-#         result += result_coros
-#     return result
+async def get_number_pages(client: ClientSession) -> list:
+    result = []
+    print("====РЕГИОНЫ====")
+    for area_chunk in tqdm(chunked(areas, 2)):
+        coros = []
+        for area in area_chunk:
+            print("++++ПРОФЕССИИ+++++")
+            for query in tqdm(queries):
+                coros.append(get_dict_pages(client, area, query))
+        result_coros = await asyncio.gather(*coros)
+        result_coros = [res for res in result_coros if res is not None]
+        result += result_coros
+    return result
+
+
+async def get_dict_vacancy_id(
+    client: ClientSession, area: str, query: str, page: int
+) -> dict:
+    params["area"] = area
+    params["text"] = query
+    params["page"] = page
+    response = await get_response(client, URL, params=params)
+    print(response)
+    return {
+        "query": query,
+        "ids": set(id for vac in response["items"]),
+    }
+
+
+async def get_all_ids(client: ClientSession) -> dict:
+    ids = {}
+    pages_liist = await get_number_pages(client)
+    for area_chunked in tqdm(chunked(areas, 2)):
+        for area in area_chunked:
+            print("++++ПРОФЕССИИ+++++")
+            for query in tqdm(queries):
+                print("---СТРАНИЦЫ---")
+                for page_dict_chunk in chunked(pages_liist, 5):
+                    coros = []
+                    for page_dict in page_dict_chunk:
+                        ids.setdefault(page_dict["query"], set())
+                        for page in range(page_dict["pages"]):
+                            # print(query, area, page)
+                            coros.append(
+                                get_dict_vacancy_id(
+                                    client, area=area, query=query, page=page
+                                )
+                            )
+                    result_coros = await asyncio.gather(*coros)
+                    for dict_ids in result_coros:
+                        key, value = dict_ids.values()
+                        ids[key].update(value)
+    return ids
 
 
 async def main():
     async with ClientSession(headers=headers) as client:
-        result = await get_number_pages(client)
-        pprint(result)
+        pages_liist = await get_number_pages(client)
+        print(len(pages_liist))
 
 
 if __name__ == "__main__":
     start_time = time()
-    # asyncio.run(main())
-    pprint(get_number_pages())
+    asyncio.run(main())
     print(round((time() - start_time) / 60))

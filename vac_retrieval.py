@@ -17,17 +17,17 @@ load_dotenv()
 vert = ConverterHH()
 
 queries = [
-    # "Data Scientist",
-    # "Системный аналитик",
-    # "Аналитик данных",
-    # "1С-аналитик",
-    # "Финансовый аналитик",
-    # "Маркетинговый аналитик",
-    # "DataOps-инженер",
-    # "Дата-журналист",
-    # "Продуктовый аналитик",
-    # "Аналитик BI",
-    # "Дата-инженер",
+    "Data Scientist",
+    "Системный аналитик",
+    "Аналитик данных",
+    "1С-аналитик",
+    "Финансовый аналитик",
+    "Маркетинговый аналитик",
+    "DataOps-инженер",
+    "Дата-журналист",
+    "Продуктовый аналитик",
+    "Аналитик BI",
+    "Дата-инженер",
     "Бизнес-аналитик"
 ]
 
@@ -40,8 +40,6 @@ res = requests.get(url_ar, headers=headers).json()
 for el in res[0]["areas"]:
     areas.append(el["id"])
 
-# # retrieving list of professional roles
-# professional_role = ['157', '79', '156', '10', '150', '165', '164', '148', '41', '163', '134', '40']
 
 URL = "https://api.hh.ru/vacancies"
 
@@ -59,7 +57,7 @@ for query in tqdm(queries):
                 "archived": False,
                 "period": 30,
                 "per_page": 100,
-            }
+            },
         ).json()["pages"]
         for page in tqdm(range(pages)):
             data = {}
@@ -73,7 +71,7 @@ for query in tqdm(queries):
                     "archived": False,
                     "page": page,
                     "per_page": 100,
-                }
+                },
             ).json()["items"]
             for j in resp:
                 data["id"] = j["id"]
@@ -87,10 +85,10 @@ for query in tqdm(queries):
                     data["schedule"] = NaN
                 time.sleep(0.5)
                 skill = requests.get(f"{URL}/{j['id']}", headers=headers).json()
-                if skill.get('key_skills'):
-                    data['skills'] = ', '.join(
-                        [s['name'] for s in skill['key_skills']]
-                        ).lower()
+                if skill.get("key_skills"):
+                    data["skills"] = ", ".join(
+                        [s["name"] for s in skill["key_skills"]]
+                    ).lower()
                 else:
                     data["skills"] = NaN
                 if skill.get("experience"):
@@ -120,11 +118,11 @@ for query in tqdm(queries):
                         data["salary_to"] = salary["to"]
                         data["currency"] = salary["currency"]
                 else:
-                    data['salary_from'] = salary
-                    data['salary_to'] = salary
-                    data['currency'] = salary
+                    data["salary_from"] = salary
+                    data["salary_to"] = salary
+                    data["currency"] = salary
                 result = pd.concat([result, pd.DataFrame([data])])
 
     result.to_csv(f"results/{query}_vac.csv", sep=";", index=False)
 
-print(time.time() - start, "СКА!!!!!")
+print(round((time.time() - start_time) / 60))
