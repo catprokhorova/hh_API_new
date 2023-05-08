@@ -1,0 +1,15 @@
+version: "3.8"
+
+services:
+  mongo:
+    image: mongo
+    restart: always
+    ports:
+      - 27017:27017
+
+  backend:
+    build: ./app
+    restart: always
+    depends_on:
+      - mongo
+    entrypoint: "/bin/sh -c 'trap exit TERM; while :; do python /app/bd_app.py; sleep 1m & wait $${!}; done;'"
