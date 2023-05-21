@@ -1,7 +1,8 @@
 import asyncio
 import os
+from datetime import datetime
 from pprint import pprint
-from time import sleep, time
+from time import sleep
 from typing import Optional
 
 import requests
@@ -51,7 +52,7 @@ params = {
 
 
 async def get_response(client: ClientSession, *args, **kwargs) -> dict:
-    await asyncio.sleep(2)
+    await asyncio.sleep(1)
     response = await client.get(*args, **kwargs)
     return await response.json()
 
@@ -66,8 +67,12 @@ async def get_dict_pages(
     params["area"] = area
     params["text"] = query
     response = await get_response(client, URL, params=params)
-    if len(response["items"]) > 0:
-        return {"query": query, "area": area, "pages": response["pages"]}
+    return {
+        "query": query,
+        "area": area,
+        "pages": response["pages"],
+        "items": response["items"],
+    }
 
 
 async def get_number_pages(client: ClientSession) -> list:
@@ -80,8 +85,7 @@ async def get_number_pages(client: ClientSession) -> list:
             for query in tqdm(queries):
                 coros.append(get_dict_pages(client, area, query))
         result_coros = await asyncio.gather(*coros)
-        result_coros = [res for res in result_coros if res is not None]
-        result += result_coros
+        result += [res for res in result_coros if len(res['items']) > 0]
     return result
 
 
@@ -132,6 +136,6 @@ async def main():
 
 
 if __name__ == "__main__":
-    start_time = time()
+    start_time = datetime.now()
     asyncio.run(main())
-    print(round((time() - start_time) / 60))
+    print(datetime.now() - start_time)
