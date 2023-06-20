@@ -4,3 +4,5 @@ __pycache__/
 .venv
 .env
 hh-env/
+credentials.json
+token.json

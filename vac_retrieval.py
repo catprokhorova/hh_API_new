@@ -1,7 +1,7 @@
+import logging
 import os
 import time
 from datetime import datetime
-from pprint import pprint
 
 import pandas as pd
 import requests
@@ -13,7 +13,9 @@ from converter import ConverterHH
 
 start = time.time()
 load_dotenv()
-
+logging.basicConfig(
+    filename="requsts.log", encoding="utf-8", level=logging.ERROR
+)
 vert = ConverterHH()
 
 queries = [
@@ -46,7 +48,7 @@ URL = "https://api.hh.ru/vacancies"
 for query in tqdm(queries):
     result = pd.DataFrame()
     for area in areas:
-        time.sleep(0.5)
+        # time.sleep(0.5)``
         pages = requests.get(
             URL,
             headers=headers,
@@ -61,18 +63,34 @@ for query in tqdm(queries):
         ).json()["pages"]
         for page in tqdm(range(pages)):
             data = {}
-            resp = requests.get(
-                URL,
-                headers=headers,
-                params={
-                    "text": query,
-                    "search_field": "name",
-                    "area": area,
-                    "archived": False,
-                    "page": page,
-                    "per_page": 100,
-                },
-            ).json()["items"]
+            try:
+                resp = requests.get(
+                    URL,
+                    headers=headers,
+                    params={
+                        "text": query,
+                        "search_field": "name",
+                        "area": area,
+                        "archived": False,
+                        "page": page,
+                        "per_page": 100,
+                    },
+                ).json()["items"]
+            except KeyError:
+                resp = requests.get(
+                    URL,
+                    headers=headers,
+                    params={
+                        "text": query,
+                        "search_field": "name",
+                        "area": area,
+                        "archived": False,
+                        "page": page,
+                        "per_page": 100,
+                    },
+                )
+                logging.error(f'{resp.headers}')
+                logging.error(f'{resp.json()}')
             for j in resp:
                 data["id"] = j["id"]
                 data["spec"] = query
@@ -124,5 +142,3 @@ for query in tqdm(queries):
                 result = pd.concat([result, pd.DataFrame([data])])
 
     result.to_csv(f"results/{query}_vac.csv", sep=";", index=False)
-
-print(round((time.time() - start_time) / 60))
