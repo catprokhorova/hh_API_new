@@ -3,3 +3,4 @@ hh_API/
 __pycache__/
 .venv
 .env
+hh-env/
