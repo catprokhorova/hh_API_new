@@ -3,3 +3,5 @@ hh_API/
 __pycache__/
 .venv
 .env
+results
+agg_stat.xlsx

@@ -19,18 +19,18 @@ logging.basicConfig(
 vert = ConverterHH()
 
 queries = [
-    "Data_Scientist",
-    "Системный_аналитик",
-    "Аналитик_данных",
-    "1С-аналитик",
-    "Финансовый_аналитик",
-    "Маркетинговый_аналитик",
-    "DataOps-инженер",
+    # "Data_Scientist",
+    # "Системный_аналитик",
+    # "Аналитик_данных",
+    # "1С-аналитик",
+    # "Финансовый_аналитик",
+    # "Маркетинговый_аналитик",
+    # "DataOps-инженер",
     "Дата-журналист",
-    "Продуктовый_аналитик",
-    "Аналитик_BI",
-    "Дата-инженер",
-    "Бизнес-аналитик",
+    # "Продуктовый_аналитик",
+    # "Аналитик_BI",
+    # "Дата-инженер",
+    # "Бизнес-аналитик",
 ]
 
 headers = {"Authorization": f'Bearer {os.getenv("TOKEN", " ")}'}
@@ -43,18 +43,53 @@ for el in res[0]["areas"]:
     areas.append(el["id"])
 
 # # retrieving list of professional roles
-# professional_role = ['157', '79', '156', '10', '150', 
-#                      '165', '164', '148', '41', '163', 
+# professional_role = ['157', '79', '156', '10', '150',
+#                      '165', '164', '148', '41', '163',
 #                      '134', '40']
 
 URL = "https://api.hh.ru/vacancies"
 
-for query in tqdm(queries):
+
+def empty(url, query):
+    resp = requests.get(
+        url,
+        headers=headers,
+        params={
+            "text": query,
+            "search_field": "name",
+            "area": 113,
+            "archived": False,
+            "period": 30,
+            "per_page": 100,
+        },
+    ).json()["items"]
+    if len(resp) == 0:
+        columns = [
+            "id",
+            "spec",
+            "job_title",
+            "city",
+            "employer",
+            "schedule",
+            "skills",
+            "experience",
+            "published",
+            "salary_from",
+            "salary_to",
+            "currency",
+        ]
+        pd.DataFrame(columns=columns).to_csv(
+            f"results/{query}.csv", sep=";", index=False
+        )
+    return True
+
+
+def not_empty(url, query):
     result = pd.DataFrame()
     for area in areas:
         time.sleep(0.5)
         pages = requests.get(
-            URL,
+            url,
             headers=headers,
             params={
                 "text": query,
@@ -147,5 +182,14 @@ for query in tqdm(queries):
                     data["salary_to"] = salary
                     data["currency"] = salary
                 result = pd.concat([result, pd.DataFrame([data])])
-
     result.to_csv(f"results/{query}.csv", sep=";", index=False)
+
+
+def main():
+    for query in tqdm(queries):
+        if not empty(URL, query):
+            not_empty(URL, query)
+
+
+if __name__ == "__main__":
+    main()
