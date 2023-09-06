@@ -1,0 +1,6 @@
+id;spec;job_title;city;employer;schedule;skills;experience;published;salary_from;salary_to;currency
+77495681;DataOps-инженер;DataOps engineer;Москва;VK;;linux, python, clickhouse, spark, kafka, java, hadoop, администрирование серверов linux;От 3 до 6 лет;2023-04-24;;;
+70430355;DataOps-инженер;DataOps Engineer;Москва;Звук;;python, docker, clickhouse, airflow, kubernetes, kafka, rabbitmq, terraform, nosql, hadoop;От 1 года до 3 лет;2023-04-21;;;
+79522428;DataOps-инженер;Lead SRE Engineer (DataOps Platform, Big Data);Москва;МТС;;devops, sla, cassandra, postgresql, ignite;Более 6 лет;2023-04-19;;;
+77600278;DataOps-инженер;DevOps Engineer на продукт ETL (DataOps Platform);Москва;МТС;;python, linux, git, ci/cd, prometheus, grafana, postgresql, kafka, hadoop, spark;От 1 года до 3 лет;2023-03-31;;;
+77495682;DataOps-инженер;DataOps engineer;Санкт-Петербург;VK;;linux, python, clickhouse, spark, kafka, java, hadoop, администрирование серверов linux;От 3 до 6 лет;2023-04-24;;;

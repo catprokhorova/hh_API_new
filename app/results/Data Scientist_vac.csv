@@ -1,0 +1,285 @@
+id;spec;job_title;city;employer;schedule;skills;experience;published;salary_from;salary_to;currency
+78381745;Data Scientist;Senior Data Scientist;Иннополис;Контур;;nlp, machine learning, python, data science;От 3 до 6 лет;2023-04-21;;;
+79015089;Data Scientist;Data-scientist, ML (удалённо);Казань;Брами Бразерс;;удаленная работа, agile, проектирование с нуля, грамотно поставленная речь, спокойствие, общение, работа в команде, умение работать в условиях многозадачности, проектирование пользовательских интерфейсов, python, pandas, ооп, git, machine learning, nlp;От 1 года до 3 лет;2023-04-06;150000;;RUR
+78330523;Data Scientist;Middle Data scientist (корпоративные риски);Казань;Ак Барс Банк;;;От 1 года до 3 лет;2023-04-20;;;
+79079448;Data Scientist;Data Scientist (Middle+/Senior);Иркутск;Центр финансовых технологий;;;От 1 года до 3 лет;2023-04-24;;;
+79079447;Data Scientist;Data Scientist (Middle+/Senior);Красноярск;Центр финансовых технологий;;;От 1 года до 3 лет;2023-04-24;;;
+78937901;Data Scientist;Junior Data scientist (Аналитик);Нижний Новгород;Займиго МФК;;python, статистический анализ, прогнозирование, математическая статистика;Нет опыта;2023-04-27;60000;;RUR
+79779951;Data Scientist;Data scientist;Нижний Новгород;СБЕР;;;От 3 до 6 лет;2023-04-25;;;
+79722544;Data Scientist;Middle Data scientist / Аналитик (Нижний Новгород);Нижний Новгород;Займиго МФК;;python, статистический анализ, прогнозирование, математическая статистика;От 1 года до 3 лет;2023-04-24;100000;150000;RUR
+69631571;Data Scientist;Data Scientist;Нижний Новгород;СБЕР;;;От 1 года до 3 лет;2023-04-19;;;
+78855362;Data Scientist;Аналитик данных / Data Analyst / Data Scientist;Нижний Новгород;DEERAY;;python, jupyter notebook, business intelligence systems, data analysis, анализ данных, аналитическое мышление, big data, ml, ms excel, etl, a/b тесты, mathematical statistics, sql, power query, работа в команде, data science, математическая статистика, регрессионный анализ, статистический анализ, git;От 3 до 6 лет;2023-04-03;80000;;RUR
+78149683;Data Scientist;Data Scientist;Нижний Новгород;Моризо Диджитал;;python, sql, ms powerpoint, статистический анализ, ml, data science;От 3 до 6 лет;2023-04-07;;;
+78732741;Data Scientist;Data Scientist в рекомендательные системы;Нижний Новгород;СБЕР;;;От 1 года до 3 лет;2023-03-30;;;
+78883017;Data Scientist;Senior Data Scientist;Нижний Новгород;Positive Technologies;;python, machine learning, web security, sklearn, pytorch, docker;От 3 до 6 лет;2023-04-04;;;
+78867877;Data Scientist;Data scientist / Python разработчик;Рязань;Пауэр Тех;;big data, data analysis, mathematical analysis, python, sql, английский язык, postgresql, mongodb;От 1 года до 3 лет;2023-04-28;;;
+79715865;Data Scientist;Data Scientist Управления модельных рисков и валидации;Новосибирск;Банк ВТБ (ПАО);;математическое моделирование, анализ данных, статистический анализ, валидация моделей, модельный риск, sql;От 1 года до 3 лет;2023-04-24;;;
+79105752;Data Scientist;Data Scientist (удаленно);Новосибирск;Горбунов Илья Николаевич;;python, sql, linux, numpy, pandas, machine learning, машинное обучение, data analysis, mathematical statistics, big data, data science, sklearn, pytorch;От 1 года до 3 лет;2023-04-28;;;
+77860633;Data Scientist;Data Scientist;Новосибирск;LC Group;;python, docker, machine learning;От 3 до 6 лет;2023-04-28;;;
+76815796;Data Scientist;Lead data scientist;Новосибирск;Дром;;машинное обучение, алгоритмы, computer vision, python;От 3 до 6 лет;2023-04-16;300000;350000;RUR
+79079445;Data Scientist;Data Scientist (Middle+/Senior);Новосибирск;Центр финансовых технологий;;;От 1 года до 3 лет;2023-04-24;;;
+78007068;Data Scientist;Data scientist;Новосибирск;LC Group;;;От 1 года до 3 лет;2023-04-04;;;
+78883014;Data Scientist;Senior Data Scientist;Новосибирск;Positive Technologies;;python, machine learning, web security, sklearn, pytorch, docker;От 3 до 6 лет;2023-04-04;;;
+79079449;Data Scientist;Data Scientist (Middle+/Senior);Омск;Центр финансовых технологий;;;От 1 года до 3 лет;2023-04-24;;;
+76815797;Data Scientist;Lead data scientist;Томск;Дром;;машинное обучение, алгоритмы, computer vision, python;От 3 до 6 лет;2023-04-16;300000;350000;RUR
+79079444;Data Scientist;Data Scientist (Middle+/Senior);Томск;Центр финансовых технологий;;;От 1 года до 3 лет;2023-04-24;;;
+78883019;Data Scientist;Senior Data Scientist;Томск;Positive Technologies;;python, machine learning, web security, sklearn, pytorch, docker;От 3 до 6 лет;2023-04-04;;;
+79311788;Data Scientist;Data Scientist;Москва;СБЕР;;;От 3 до 6 лет;2023-04-27;;;
+79550129;Data Scientist;Аналитик / Data scientist;Москва;ЭКОПСИ Консалтинг;;python, r, data scientist;Нет опыта;2023-04-28;;;
+79577718;Data Scientist;Data Scientist middle+/Senior;Москва;Мамаева Ирина Анатольевна;;spark, python, sql, machine learning, машинное обучение, docker, pandas, ml, airflow;От 3 до 6 лет;2023-04-26;250000;380000;RUR
+79847436;Data Scientist;Data Scientist;Москва;Twinby;;data scientist, а/b тесты, switch back, sql, python, pandas, numpy, scikit-learn, tensorflow, pytorch, opencv2, pyspark;От 1 года до 3 лет;2023-04-26;;;
+79811582;Data Scientist;Data Scientist;Москва;red_mad_robot;;;От 1 года до 3 лет;2023-04-26;;;
+79769301;Data Scientist;Data scientist (computer vision);Москва;Гознак;;python, git, sql, java, hadoop, data scientist, computer vision;От 3 до 6 лет;2023-04-25;225000;;RUR
+79904597;Data Scientist;Data scientist;Москва;Уральская горно-металлургическая компания;;;От 3 до 6 лет;2023-04-28;;;
+79843140;Data Scientist;Data Scientist в Маркет;Москва;Яндекс;;;От 3 до 6 лет;2023-04-26;;;
+79830140;Data Scientist;Data Scientist;Москва;IEK GROUP;;sql, python, olap (online analytical processing), аналитическое мышление, ms sql;От 3 до 6 лет;2023-04-26;;;
+75789450;Data Scientist;Data Scientist;Москва;КСОР;;математическая статистика, pytorch, python, docker, linux, c++, mathematical statistics, нейросети, git, machine learning, computer vision, keras, tensorflow, алгоритмы, ml, opencv;От 3 до 6 лет;2023-04-26;220000;270000;RUR
+70163749;Data Scientist;Data Scientist (middle/senior);Москва;Rubbles;;python, spark, sql, machine learning, pandas, машинное обучение, data science, big data;От 3 до 6 лет;2023-04-27;;400000;RUR
+79909326;Data Scientist;NLP Data Scientist;Москва;СБЕР;;;От 1 года до 3 лет;2023-04-28;;;
+77567000;Data Scientist;Senior\Middle Data Scientist (Big Data);Москва;ОТП Банк, АО (OTP bank);;python, sql, git;От 1 года до 3 лет;2023-04-26;250000;400000;RUR
+79446454;Data Scientist;Head Data Scientist;Москва;Сеть Партнерств;;прогнозирование, python, sql, tableau, machine learning, data analysis, data science, git, анализ данных;От 3 до 6 лет;2023-04-26;350000;;RUR
+77954455;Data Scientist;Data Scientist (Middle+);Москва;DIGINETICA;;scala, java, sql, анализ данных, python, elasticsearch, big data, с++, tensorflow, pytorch, scipy, numpy, pandas, word2vec, xgboost;От 1 года до 3 лет;2023-04-27;170000;240000;RUR
+79927092;Data Scientist;Data Scientist;Москва;СБЕР;;;От 1 года до 3 лет;2023-04-28;;;
+79735056;Data Scientist;Стажер Data Scientist (Sber AI Lab);Москва;СБЕР;;;От 1 года до 3 лет;2023-04-24;;;
+79748204;Data Scientist;Data Scientist (ChatGPT);Москва;ЦУМ, ТД;;python, pytorch, ml, llm, tensorflow, keras, mathematical statistics, data science;От 1 года до 3 лет;2023-04-24;;;
+78876532;Data Scientist;Эконометрист/Data scientist (Junior/Middle) в консалтинг;Москва;БСТ Менеджмент-Консалтинг;;;От 1 года до 3 лет;2023-04-28;40000;;RUR
+79729655;Data Scientist;Data Scientist;Москва;СБЕР (ООО еАптека);;data science, machine learning, a/b тесты, python, bash, git, docker;От 1 года до 3 лет;2023-04-24;;;
+79089106;Data Scientist;Data scientist (нестандартные ML-модели);Москва;Банк Хоум Кредит;;python, sql, ml, машинное обучение, uplift modeling, модели ценообразования, causal inference, git, linux, deep learning, apache spark;От 3 до 6 лет;2023-04-25;;;
+79738826;Data Scientist;Data scientist;Москва;Банки.ру;;python, sql, cuda, data analysis, tensorflow;От 1 года до 3 лет;2023-04-24;;;
+78758907;Data Scientist;Data Scientist middle/senior;Москва;X5 Tech;;python, hadoop, big data, machine learning;От 3 до 6 лет;2023-04-26;;;
+78778781;Data Scientist;Senior Data scientist;Москва;AMarkets;;;От 3 до 6 лет;2023-04-27;326238;;RUR
+78764927;Data Scientist;Разработчик в области машинного обучения и больших данных (Data Scientist);Москва;Ульянова Надежда Михайловна;;tensorflow, аналитическое мышление, анализ данных, разработка компьютерных игр, gamedev, python, удаленная работа, ml, машинное обучение, математический склад ума, гибкость мышления, решение нестандартных задач, нейросеть, keras, pytorch;От 1 года до 3 лет;2023-04-27;;;
+77408771;Data Scientist;Data Scientist (Computer Vision);Москва;БиАйЭй-Технолоджиз;;python, pytorch, opencv, computer vision, tensorflow;От 3 до 6 лет;2023-04-24;;;
+79720387;Data Scientist;Data Scientist;Москва;РОСБАНК;;python, математическое моделирование, sql, data science, big data, базы данных, spark, машинное обучение, математическая статистика, machine learning;От 3 до 6 лет;2023-04-24;;;
+78976610;Data Scientist;Data Scientist;Москва;Employcity;;;От 3 до 6 лет;2023-04-25;;;
+78660614;Data Scientist;Data Scientist (APAC);Москва;Finbridge;;ms sql server, sql server, ms sql, transact-sql, базы данных;От 1 года до 3 лет;2023-04-26;;;
+78656512;Data Scientist;Data Scientist;Москва;Finbridge;;;От 1 года до 3 лет;2023-04-27;;;
+67411146;Data Scientist;Data Scientist, Ранжирование поиска;Москва;Ozon;;python, data science, разработка поисковых технологий, it;От 3 до 6 лет;2023-04-28;;;
+79057338;Data Scientist;Chief Data Scientist;Москва;СБЕР;;;Более 6 лет;2023-04-28;;;
+79402148;Data Scientist;Скоринг-аналитик / Data scientist / Аналитик (скоринг);Москва;Займ-Экспресс;;ms sql, математическое моделирование, кредиторская задолженность, аналитическое мышление, sql, xgboost, python;От 1 года до 3 лет;2023-04-25;;;
+79827214;Data Scientist;Data Scientist (Инструменты A/B тестирования, Группа анализа и валидации экспериментов);Москва;Ozon;;machine learning, data science, ml, анализ данных, it, торговая площадка, python, sql, аналитическое мышление, алгоритмы, ab тесты, математический анализ, deep learning, a/b тесты;От 1 года до 3 лет;2023-04-26;;;
+79811721;Data Scientist;Data Scientist;Москва;Детский Мир;;python, sql, linux, power bi;От 3 до 6 лет;2023-04-26;;;
+79617048;Data Scientist;Data Scientist;Москва;Сбер Бизнес Софт;;;От 1 года до 3 лет;2023-04-26;;;
+79905309;Data Scientist;Middle Data Scientist;Москва;СБЕР;;;От 1 года до 3 лет;2023-04-28;;;
+78120333;Data Scientist;Data Scientist, Рекомендации и персонализация;Москва;Ozon;;python, pytorch, hadoop, data science, разработка поисковых технологий, it;От 3 до 6 лет;2023-04-28;;;
+77316163;Data Scientist;Data Scientist (DMAG);Москва;Лаборатория Касперского;;machine learning, spark, docker, python;От 3 до 6 лет;2023-04-24;;;
+77899629;Data Scientist;Senior NLP Engineer / Data Scientist;Москва;КИБЕР-РОМ;;python, go, c++, torch, catboost, postgresql, greenplum, mongodb, clickhouse, redis, opensearch, rabbitmq, kafka, k8s, docker, argocd, helm, airflow, superset, ml-flow, git-lab, elk, grafana, prometheus;От 3 до 6 лет;2023-04-27;;370000;RUR
+79933358;Data Scientist;Senior Data Scientist;Москва;Самокат (ООО Умное пространство);;python, sql, machine learning;От 3 до 6 лет;2023-04-28;;;
+79929005;Data Scientist;Data Scientist (Global markets);Москва;СБЕР;;;От 1 года до 3 лет;2023-04-28;;;
+78029161;Data Scientist;Аналитик данных (data scientist);Москва;Промышленные инновации;;data analysis, анализ данных, аналитика, data science, ml, machine learning;От 1 года до 3 лет;2023-04-27;;;
+79906988;Data Scientist;Data scientist, проекты по разработке симуляционных моделей, моделей оценки стресс-тестирования;Москва;Банк ВТБ (ПАО);;python, математическая статистика, sql, анализ рисков, английский язык;От 3 до 6 лет;2023-04-28;;;
+77557350;Data Scientist;Аналитик данных/Middle Data scientist (Computer Vision);Москва;Северсталь;;python, sql, ms sql, английский язык, postgresql;От 1 года до 3 лет;2023-04-25;;;
+79305148;Data Scientist;Data Scientist (моделист в банк направление кредитные риски);Москва;Diamond Personnel R&C;;sql, математическое моделирование, статистический анализ, риск-менеджмент, ms powerpoint, анализ финансовых показателей, анализ рисков, аналитические исследования, работа с банками, модели оценки кредитных рисков, моделирование pd, оценка прогнозируемого кредитного риска, модель вероятности дефолта, ead, bcbs, python, sas, r, lgd, пвр;От 1 года до 3 лет;2023-04-25;;300000;RUR
+75546387;Data Scientist;Data Scientist (Почта);Москва;VK;;python, tensorflow, machine learning, deep learning;От 1 года до 3 лет;2023-04-23;;;
+76536709;Data Scientist;Data Scientist (LTV);Москва;билайн;;python, linux, sql, математическая статистика, hadoop, git, atlassian jira, spark, data sciense, анализ данных, analysis, статистика, big data, статистический анализ;От 3 до 6 лет;2023-04-27;;;
+79926256;Data Scientist;Data Scientist middle+;Москва;СБЕР;;;От 3 до 6 лет;2023-04-28;;;
+76461371;Data Scientist;Data Scientist;Москва;ГАУ Города Москвы Центр цифровизации образования;;sql, аналитическое мышление, data analysis, аналитические исследования, ml, data scientist, python;От 1 года до 3 лет;2023-04-26;;;
+78642657;Data Scientist;Data Scientist (MyTracker);Москва;VK;;python, анализ данных, machine learning, linux, bash, git, sql, clickhouse;От 1 года до 3 лет;2023-04-23;;;
+79826622;Data Scientist;Lead/Senior Data Scientist;Москва;Axenix (ранее Accenture);;machine learning, natural language processing, computer vision, математическая статистика, python, data science, математический анализ, математическое моделирование, deep learning, numpy, pandas, big data, машинное обучение;Более 6 лет;2023-04-26;;;
+78991481;Data Scientist;Data Scientist (NLP);Москва;Крибрум;;rust, pytorch, cassandra, postgresql;От 3 до 6 лет;2023-04-24;;;
+79002008;Data Scientist;Аналитик/Data Scientist;Москва;Государственная корпорация Агентство по страхованию вкладов;;;От 3 до 6 лет;2023-04-27;;;
+79928347;Data Scientist;Middle Data Scientist (Sber AI Lab);Москва;СБЕР;;;От 1 года до 3 лет;2023-04-28;;;
+79926242;Data Scientist;Data Scientist – Senior/Chief;Москва;СБЕР;;;Более 6 лет;2023-04-28;;;
+78405101;Data Scientist;Data Scientist / ML-engineer (Middle+) со знание python в проект по искусственному интеллекту;Москва;ПАВЛИН ТЕХНО;;python, machine learning, базы данных, pycharm, sql, английский язык, big data, aws, ответственный подход к работе, анализ данных, обучение и развитие, mongodb, postgresql;От 1 года до 3 лет;2023-04-21;150000;;RUR
+79324482;Data Scientist;Middle/Senior Data scientist;Москва;билайн;;;От 3 до 6 лет;2023-04-26;;;
+79796953;Data Scientist;Senior Data Scientist;Москва;СБЕР;;;От 3 до 6 лет;2023-04-25;;;
+78042103;Data Scientist;Senior Data Scientist, Анализ текста (DS/NLP);Москва;WILDBERRIES;;nlp, ml, data analysis, python, gpt;От 3 до 6 лет;2023-04-25;;;
+79165756;Data Scientist;Data Scientist;Москва;СБЕР;;;Более 6 лет;2023-04-11;300000;400000;RUR
+79567481;Data Scientist;Middle/Senior Data Scientist (скоринговые модели);Москва;Отличные наличные;;кредитный скоринг, python, sql, ml, powerbi, алгоритмы, кредитные риски;От 1 года до 3 лет;2023-04-26;;;
+79591838;Data Scientist;Data Scientist;Москва;СБЕР;;;От 1 года до 3 лет;2023-04-20;;;
+79122624;Data Scientist;Senior data scientist (ML);Москва;билайн;;;От 3 до 6 лет;2023-04-28;;;
+79434477;Data Scientist;Data Scientist;Москва;«UZUM TECHNOLOGIES».;;python, sql, ml, xgboost, работа с банками, pandas;От 3 до 6 лет;2023-04-18;;;
+77471619;Data Scientist;Senior Data Scientist [команда Поиска];Москва;СберМаркет;;python, nlp, pandas, machine learning, ml, data science;От 1 года до 3 лет;2023-04-26;;;
+76954383;Data Scientist;Lead data scientist (Анализ цены и Trade in);Москва;Домклик;;;От 3 до 6 лет;2023-04-28;;;
+54829296;Data Scientist;Data scientist (Персонализация);Москва;Спортмастер;;;От 1 года до 3 лет;2023-04-21;;;
+78625975;Data Scientist;Senior Data Scientist;Москва;Rutube;;python, sql, git, linux, математическая статистика, postgresql, pytorch, nlp, kafka, bash, docker, machine learning, rabbitmq, tensorflow, word2vec;От 3 до 6 лет;2023-04-24;;;
+78909534;Data Scientist;Senior Data Scientist (Комплайнс);Москва;СБЕР;;ml, python, pytorch;От 3 до 6 лет;2023-04-25;;;
+79112858;Data Scientist;Data Scientist R&D;Москва;Rubbles;;python, pandas, machine learning, numpy, аналитические исследования, задачи оптимизации, sklearn;От 1 года до 3 лет;2023-04-10;150000;300000;RUR
+79683315;Data Scientist;Middle Data Scientist (розничные модели, стрим инвестиций);Москва;Альфа-Банк;;;От 1 года до 3 лет;2023-04-22;;;
+79741773;Data Scientist;Senior Data Scientist (ML);Москва;Группа НЛМК;;;От 3 до 6 лет;2023-04-24;;;
+79621585;Data Scientist;Data Scientist;Москва;Ингосстрах;;python, spark, linux, sql;От 1 года до 3 лет;2023-04-20;;;
+79680179;Data Scientist;Middle Data Scientist (модели кредитного риска);Москва;Альфа-Банк;;;От 1 года до 3 лет;2023-04-21;;;
+79304757;Data Scientist;Data Scientist;Москва;INSITECH Development;;python, oracle, грамотная речь, sql, clickhouse, hive, ml, контроль и анализ ценообразования, hadoop, spark, big data, data science;От 3 до 6 лет;2023-04-14;;;
+78786481;Data Scientist;"Senior Data Scientist (""Платформа экспериментов"")";Москва;Okko;;python, sql, ml;От 3 до 6 лет;2023-04-27;;;
+78471224;Data Scientist;Senior Data Scientist;Москва;СБЕР;;nlp, python, pytorch, tensorflow, deep learning, ml, data science;От 3 до 6 лет;2023-04-24;;;
+77472379;Data Scientist;Middle/Senior Data Scientist (RecSys);Москва;СберМаркет;;python, sql, машинное обучение, ml;От 3 до 6 лет;2023-04-24;;;
+76274433;Data Scientist;Data Scientist Middle/Senior (Моделирование RnD);Москва;Иннотех, Группа компаний;;python, моделирование, big data;От 3 до 6 лет;2023-04-20;;;
+79550227;Data Scientist;Data Scientist (модели Collection);Москва;Газпромбанк;;;От 1 года до 3 лет;2023-04-19;;;
+77471270;Data Scientist;Lead Data Scientist (RecSys);Москва;СберМаркет;;python, машинное обучение, алгоритмы;Более 6 лет;2023-04-24;;;
+78706463;Data Scientist;Data Scientist;Москва;Точка;;нейросети, python, машинное обучение, nlp, ml, gan, sql;От 3 до 6 лет;2023-04-12;;300000;RUR
+79615111;Data Scientist;Data Scientist/ML (команда System Team);Москва;ВСК, САО;;;От 1 года до 3 лет;2023-04-20;;;
+79546407;Data Scientist;Data Scientist;Москва;ВСК, САО;;;От 1 года до 3 лет;2023-04-19;;;
+73254140;Data Scientist;Data Scientist (Predict);Москва;VK;;python, sql, математическая статистика, machine learning, big data, hadoop, spark;От 1 года до 3 лет;2023-04-19;;;
+79177142;Data Scientist;Data Scientist (Gurobi, Cplex, SCIP, CBC);Москва;БиАйЭй-Технолоджиз;;python, gurob, cplex, cbc, scip;От 3 до 6 лет;2023-04-19;;;
+78568157;Data Scientist;Data Scientist (главный исследователь данных по КАСКО);Москва;ВСК, САО;;python, математическая статистика, sql, pandas, статистический анализ, машинное обучение, data science, ms sql, аналитическое мышление, data analysis, математическое моделирование, библиотеки: statsmodels catboost glm, субдд: ms sql postgresql oracle, apache airflow, mlflow;От 1 года до 3 лет;2023-04-21;;;
+71322369;Data Scientist;Data Scientist Middle/Senior;Москва;Вкусно — и точка;;python, machine learning, sql, big data, data science;От 3 до 6 лет;2023-04-21;;;
+79654851;Data Scientist;Data Scientist (Валидация моделей кредитного риска КИБ);Москва;СБЕР;;;От 1 года до 3 лет;2023-04-21;;;
+79433171;Data Scientist;Data Scientist;Москва;СБЕР;;;От 1 года до 3 лет;2023-04-18;;;
+79000975;Data Scientist;Data Scientist (Junior);Москва;Газпромбанк;;python, sql, ml, ds;От 1 года до 3 лет;2023-04-06;;;
+78961029;Data Scientist;Data Scientist;Москва;CyberPhysics;;machine learning, python, tensorflow, pandas, ооп, numpy;От 1 года до 3 лет;2023-04-05;160000;180000;RUR
+79543345;Data Scientist;Data Scientist (FNB);Москва;Emerging Travel Group (Ostrovok.ru, B2B.Ostrovok, RateHawk, ZenHotels);;python, sql;От 3 до 6 лет;2023-04-19;;;
+78253085;Data Scientist;Data Scientist (Северсталь Диджитал);Москва;Северсталь;;ml, python, sql, docker, big data, git;От 1 года до 3 лет;2023-04-17;;;
+79404780;Data Scientist;Data Scientist;Москва;СБЕР;;python, sql, ml, машинное обучение;От 1 года до 3 лет;2023-04-17;;;
+78381741;Data Scientist;Senior Data Scientist;Москва;Контур;;nlp, machine learning, python, data science;От 3 до 6 лет;2023-04-21;;;
+79524764;Data Scientist;Data Scientist;Москва;СБЕР;;;От 3 до 6 лет;2023-04-19;;;
+79540414;Data Scientist;Middle NLP Data Scientist (команда AI SmartCare);Москва;СБЕР;;;От 1 года до 3 лет;2023-04-19;;;
+79114600;Data Scientist;Middle Data Scientist (коллекшн);Москва;Ак Барс Банк;;;От 1 года до 3 лет;2023-04-20;;;
+78056289;Data Scientist;Data Scientist CV;Москва;СБЕР;;;От 3 до 6 лет;2023-04-18;;;
+79304164;Data Scientist;Data Scientist (корпоративные финансы);Москва;СБЕР;;;От 1 года до 3 лет;2023-04-14;;;
+73728017;Data Scientist;Аналитик данных / Data Scientist;Москва;ГКУ Инфогород;;python, sql, анализ данных, аналитические исследования, математическая статистика, nlp, data science, big data, machine learning, работа с большим объемом информации;От 3 до 6 лет;2023-04-17;;;
+76974214;Data Scientist;Data scientist (Ценообразование);Москва;Спортмастер;;;От 1 года до 3 лет;2023-04-17;;;
+79300938;Data Scientist;Data-Scientist / ML /Дата-сайентист;Москва;Employcity;;sql, python, a/b тесты, ml, docker;От 3 до 6 лет;2023-04-14;;;
+78762450;Data Scientist;Data Scientist;Москва;МТС Банк;;python, sql, математическая статистика, atlassian jira, ds, data scientist, математическое моделирование, система принятия решения, go, scala, машинное обучение, модель прогнозирования потерь;От 1 года до 3 лет;2023-04-12;;;
+79255620;Data Scientist;Data scientist в команду развития скоринговых моделей;Москва;Тинькофф;;ml, mathematical statistics, python, математическое моделирование;От 1 года до 3 лет;2023-04-13;;;
+78121640;Data Scientist;Data Scientist;Москва;Центр 2М;;искусственный интеллект, r&d проекты в области ai/ml, архитектора решений в команду ai для ml-разработки полного цикла, data science, mlops, ci/cd, bash, python, контейнерная виртуализация, numpy, pandas, matplotlib, seaborn, искусственный интеллект, машинное обучение, machine learning, нейронная сеть;От 3 до 6 лет;2023-04-13;;;
+75981474;Data Scientist;Data scientist (RecSys);Москва;Спортмастер;;;От 1 года до 3 лет;2023-04-17;;;
+76663333;Data Scientist;Middle Data Scientist;Москва;Банк ВТБ (ПАО);;python, sql, математическая статистика, pandas, машинное обучение, моделирование;От 1 года до 3 лет;2023-04-17;;;
+79115973;Data Scientist;Data Scientist;Москва;ИЦ АЙ-ТЕКО;;;От 1 года до 3 лет;2023-04-10;;;
+79098508;Data Scientist;Data Scientist (Research Scientist);Москва;СБЕР;;data mining, python, анализ данных;От 1 года до 3 лет;2023-04-10;;;
+79440607;Data Scientist;Data scientist (Гео и графы);Москва;СБЕР;;;От 3 до 6 лет;2023-04-18;;;
+78102671;Data Scientist;Data Scientist;Москва;Банк Открытие;;python, sql, machine learning, машинное обучение, data science, моделирование;От 3 до 6 лет;2023-04-14;;;
+79617152;Data Scientist;Data Scientist в b2c направление;Москва;HeadHunter;;python, machine learning, sql, pytorch, java, numpy, scipy, pandas, scikit-learn, neural nets, nlp, recommender systems, search ranking, a/b-experiments, анализ данных, hadoop, hive, presto, mathematics;От 3 до 6 лет;2023-04-20;;;
+79273001;Data Scientist;Data scientist (Middle);Москва;МегаФон;;;От 1 года до 3 лет;2023-04-13;;;
+77480809;Data Scientist;Data Scientist/ML;Москва;ВСК, САО;;data science, machine learning, ml;От 1 года до 3 лет;2023-04-11;;;
+69379894;Data Scientist;Инженер / Data Scientist;Москва;ГБУЗ «Научно-практический клинический центр диагностики и телемедицинских технологий ДЗМ»;;медицинское оборудование, написание научный статей, научная деятельность, научные исследования;От 1 года до 3 лет;2023-04-14;;;
+79267342;Data Scientist;Data Scientist (команда поиска и рекомендаций по RuStore);Москва;VK;;python, c++, hadoop, pytorch, clickhouse, machine learning;От 1 года до 3 лет;2023-04-13;;;
+76281676;Data Scientist;Middle Data Scientist (Скоринги Партнерств и ПБД);Москва;Иннотех, Группа компаний;;python, spark, ml, моделирование, big data, hadoop;От 1 года до 3 лет;2023-04-20;;;
+78447935;Data Scientist;Senior Data Scientist (оценка моделей);Москва;РОСБАНК;;python, machine learning;От 3 до 6 лет;2023-04-20;;;
+79298739;Data Scientist;Team Lead Data Scientist;Москва;Самокат (ООО Умное пространство);;ml, лидерство;От 3 до 6 лет;2023-04-14;;;
+78043382;Data Scientist;Senior Data Scientist;Москва;ГПМ Партнер;;;От 3 до 6 лет;2023-04-17;;;
+79308044;Data Scientist;Data Scientist Middle (Центр искусственного интеллекта);Москва;СБЕР;;;От 1 года до 3 лет;2023-04-14;;;
+73751357;Data Scientist;Senior Data Scientist (разработка Скоринговых моделей);Москва;Банк ВТБ (ПАО);;python, sql, математическое моделирование, математический анализ, r, miner, teradata;От 1 года до 3 лет;2023-04-18;;;
+79281445;Data Scientist;Middle Data Scientist;Москва;СБЕР;;ml, python, sql;От 1 года до 3 лет;2023-04-13;;;
+79301676;Data Scientist;Data Scientist (Центр валидации моделей КИБ);Москва;СБЕР;;;От 1 года до 3 лет;2023-04-14;;;
+79402105;Data Scientist;Data Scientist (Центр валидации моделей сервисных блоков и экосистемы);Москва;СБЕР;;;От 1 года до 3 лет;2023-04-17;;;
+79408917;Data Scientist;Senior Data Scientist;Москва;Бюро кредитных историй Скоринг Бюро;;python, oracle pl/sql, sql, анализ данных, анализ рисков, аналитическое мышление, математическая статистика, аналитические исследования, pandas, data analysis, кредитные риски;От 3 до 6 лет;2023-04-17;;;
+68148229;Data Scientist;Data Scientist (SberDevices);Москва;СБЕР;;pytorch, tensorflow, python, deep learning, nlp;От 1 года до 3 лет;2023-04-11;;;
+79402926;Data Scientist;Middle Data scientist (корпоративные риски);Москва;Ак Барс Банк;;;От 1 года до 3 лет;2023-04-17;;;
+79379720;Data Scientist;Data Scientist senior;Москва;СБЕР;;;От 3 до 6 лет;2023-04-17;;;
+79100996;Data Scientist;Chief Data Scientist;Москва;Самокат (ООО Умное пространство);;;От 3 до 6 лет;2023-04-10;;;
+79090323;Data Scientist;Middle/Senior Data Scientist;Москва;СБЕР;;;От 3 до 6 лет;2023-04-19;;;
+70903553;Data Scientist;Data Scientist (сопровождение процесса разработки и использования моделей);Москва;Банк ВТБ (ПАО);;оценка рисков, ms powerpoint, статистический анализ, управление рисками, математическое моделирование, pd, lgd, ead, sql, портфельные риски, кредитные риски;От 1 года до 3 лет;2023-04-12;;;
+78081929;Data Scientist;Старший научный сотрудник / Data Scientist / AI researcher / Цифровые двойники / Big Data;Москва;Академия ГПС МЧС России;;уровень знаний, самостоятельное проведение исследований, большие данные, искусственный интеллект, нейронные сети, цифровые двойники;От 3 до 6 лет;2023-04-14;100000;120000;RUR
+78825121;Data Scientist;Руководитель направления (Data scientist);Москва;Московский Кредитный Банк;;;От 3 до 6 лет;2023-04-12;;;
+72740316;Data Scientist;Quant / Data Scientist (Руководитель направления Управление рисками);Москва;ДОМ.РФ;;sql, python;От 3 до 6 лет;2023-04-13;;;
+78618131;Data Scientist;Специалист по машинному обучению и анализу данных / Data Scientist (Middle);Москва;Марс;;;От 1 года до 3 лет;2023-04-12;;;
+77774476;Data Scientist;Data analyst/ Data Scientist  (удаленно);Москва;РОСБАНК;;sql, python, hadoop, spark, анализ данных, data analysis, data science, machine learning, ml, numpy, pandas;От 3 до 6 лет;2023-04-05;;;
+78769739;Data Scientist;Data Scientist;Москва;Datanomica;;python, математическая статистика, machine learning, big data, pyspark, spark;От 1 года до 3 лет;2023-03-31;;;
+79093240;Data Scientist;Data scientist (junior/middle), команда разработки портфельных моделей;Москва;Банк ВТБ (ПАО);;python, sql, английский язык, финансовая математика, стохастический анализ;От 1 года до 3 лет;2023-04-10;;;
+79258367;Data Scientist;Senior Data Scientist;Москва;СБЕР;;python, pandas, nlp, recsys;От 3 до 6 лет;2023-04-13;;;
+70243733;Data Scientist;Data Scientist;Москва;Lamoda Tech;;;От 3 до 6 лет;2023-03-30;;;
+77181469;Data Scientist;Data scientist / Аналитик риск-моделей;Москва;МФК ВЭББАНКИР;;python, sql, sas, анализ данных, математическая статистика;От 1 года до 3 лет;2023-04-06;120000;300000;RUR
+78891888;Data Scientist;Middle Data Scientist;Москва;Группа НЛМК;;data analysis, confluence, удаленная работа, sql, python, jira;От 3 до 6 лет;2023-04-04;;;
+79028437;Data Scientist;Data Scientist;Москва;СИНЕРГИЯ;;python, sql, nlp, data analysis, bash, теория вероятностей, математическая статистика, xgboost;От 1 года до 3 лет;2023-04-07;;;
+78672191;Data Scientist;Data Scientist;Москва;СБЕР;;sql, python, etl, spark;От 3 до 6 лет;2023-04-04;;;
+78834164;Data Scientist;Data Scientist;Москва;Газпром нефть;;python, ml, ms sql, pandas, numpy, sсipy;От 1 года до 3 лет;2023-04-03;;;
+78959208;Data Scientist;Data Scientist (Middle);Москва;Газпромбанк;;python, sql, ml, ds;От 3 до 6 лет;2023-04-05;;;
+78896775;Data Scientist;Data Scientist (Геоаналитика);Москва;СБЕР;;python, sql, ml, машинное обучение;От 1 года до 3 лет;2023-04-04;;;
+78879508;Data Scientist;Data Scientist;Москва;Ингосстрах;;python, linux, spark, английский язык, sql, big data;От 1 года до 3 лет;2023-04-04;;;
+78962457;Data Scientist;Senior/ Team Lead Data Scientist в ML-команду;Москва;СБЕР;;;От 1 года до 3 лет;2023-04-05;;;
+67924416;Data Scientist;Senior Data Scientist/ML Engineer SberDevices;Москва;СБЕР;;python, nlp, deep learning, linux, docker;От 3 до 6 лет;2023-04-11;;;
+79255262;Data Scientist;Senior Data Scientist (Rec. system);Москва;Okko;;python, sql, deep learning, ml;От 3 до 6 лет;2023-04-13;;;
+78900581;Data Scientist;Team lead \ Senior Data Scientist (команда перспективных алгоритмов машинного обучения);Москва;Банк ВТБ (ПАО);;python, spark, hadoop, hive, ml, sql, pytorch;От 3 до 6 лет;2023-04-04;;;
+77737078;Data Scientist;Data Scientist;Москва;Литрес;;python, rest api, sql;От 3 до 6 лет;2023-04-02;;;
+78878339;Data Scientist;Lead Data Scientist NLP;Москва;СБЕР;;nlp, python, ml;От 3 до 6 лет;2023-04-04;;;
+79093164;Data Scientist;Middle Data Scientist в продукт МТС Маркетолог (Big Data);Москва;МТС;;python, sql, apache spark, hadoop, ml, a/b тесты;От 1 года до 3 лет;2023-04-10;;;
+79041835;Data Scientist;Senior Data Scientist;Москва;ТекФорс Инжиниринг;;python, sql, pandas, numpy, machine learning, data science, математический анализ, математическая статистика, математическое моделирование;От 3 до 6 лет;2023-04-07;;;
+77986075;Data Scientist;Senior/ Middle data scientist (жизненный цикл клиента);Москва;Банк ВТБ (ПАО);;python, sql, spark, hive, airflow, ml, cltv;От 1 года до 3 лет;2023-04-10;;;
+79092544;Data Scientist;Middle ML Engineer/Data Scientist в Рекомендательную платформу (Big Data);Москва;МТС;;python, ml, hadoop, spark, hive, mlops, git, nympy, pandas, airflow, sql, nosql, api, a/b тесты, docker;От 1 года до 3 лет;2023-04-10;;;
+78913351;Data Scientist;Data Scientist (математическое моделирование);Москва;РОСБАНК;;пвр, irb, pd/lgd;От 3 до 6 лет;2023-04-04;;;
+78736467;Data Scientist;Разработчик-исследователь / Data Scientist в Data Office;Москва;VK;;;От 3 до 6 лет;2023-03-30;;;
+78825971;Data Scientist;Data scientist;Москва;Сбербанк-Телеком;;бюджетирование, подготовка презентаций, ms excel, финансовый анализ;От 3 до 6 лет;2023-04-03;;;
+76391976;Data Scientist;Data Scientist на проект «Синтез речи» (remote);Москва;АБК;;rnd, python, linux, git, sql, pytorch, data science, нейронные сети, etl;От 3 до 6 лет;2023-04-05;;;
+78329281;Data Scientist;Senior data scientist (экономические показатели);Москва;Аналитический центр при Правительстве Российской Федерации;;;От 3 до 6 лет;2023-04-10;;;
+78754613;Data Scientist;Data scientist (Центр валидации моделей розничного бизнеса);Москва;СБЕР;;;От 1 года до 3 лет;2023-03-31;;;
+78959033;Data Scientist;Data Scientist (Senior);Москва;Газпромбанк;;python, sql, ml, ds;От 3 до 6 лет;2023-04-05;;;
+79012262;Data Scientist;Middle/Senior Data scientist (Computer Vision);Москва;СБЕР;;python, nlp, computer vision, sql;От 3 до 6 лет;2023-04-06;;;
+78888209;Data Scientist;Руководитель направления валидации моделей (Data Scientist);Москва;Банк Хоум Кредит;;python, sql, математическая статистика, data analysis, теория вероятностей, data science, pandas, ml, xgboost, machine learning, sklearn, jupyter notebook;От 3 до 6 лет;2023-04-04;;;
+78934453;Data Scientist;Senior Data Scientist (NLP);Москва;СБЕР;;;От 3 до 6 лет;2023-04-05;;;
+79090234;Data Scientist;Middle/Senior Data Scientist в направление Рекомендательной платформы (Big Data);Москва;МТС;;data science, ml, sql, python, linux, git, docker, big data, spark, hadoop, bash;От 3 до 6 лет;2023-04-10;;;
+78894061;Data Scientist;Senior/middle Data Scientist;Москва;СБЕР;;python, nlp, c++, ml;От 3 до 6 лет;2023-04-04;;;
+79089818;Data Scientist;Senior Data Scientist в направление рекламной платформы RnD (Big Data);Москва;МТС;;python, sql, математическая статистика, big data, machine learning, nlp, hadoop, spark, pandas, numpy, matplotlib, seaborn;От 3 до 6 лет;2023-04-10;;;
+76939405;Data Scientist;Data scientist (Middle+\Senior);Москва;МегаФон;;sql, hadoop, python, pyspark, airflow;От 3 до 6 лет;2023-04-05;;;
+77034579;Data Scientist;Senior Data Scientist (Adtech);Москва;VK;;machine learning, hadoop, adtech, python, ml, nlp, алгоритмы;От 3 до 6 лет;2023-04-09;;;
+71354549;Data Scientist;Chief Data Scientist / DS Team Lead;Москва;Вкусно — и точка;;python, machine learning, sql, big data, spark, data analysis, teambuilding, ml;От 3 до 6 лет;2023-04-11;;;
+78711110;Data Scientist;Data scientist (Управление рисками корпоративных клиентов);Москва;СБЕР;;;От 1 года до 3 лет;2023-03-30;;;
+78883015;Data Scientist;Senior Data Scientist;Москва;Positive Technologies;;python, machine learning, web security, sklearn, pytorch, docker;От 3 до 6 лет;2023-04-04;;;
+76491071;Data Scientist;Middle+ Data Scientist на продукт Маркетолог (Big Data);Москва;МТС;;docker, airflow, hadoop, sql, machine learning, маркетинг, spark, sklearn, catboost, ml, big data, python;От 3 до 6 лет;2023-04-02;;;
+78775402;Data Scientist;Senior Data Scientist (Research Scientist);Москва;СБЕР;;data mining, python, анализ данных;От 3 до 6 лет;2023-03-31;;;
+76420732;Data Scientist;Senior/Lead Data Scientist на продукт MTS Travel (Big Data);Москва;МТС;;sql, python, a/b тесты, математическая статистика, аналитическое мышление, nlp, ml, recsys;Более 6 лет;2023-04-01;;;
+77818891;Data Scientist;Data Scientist middle+/senior (Транскодинг);Москва;Okko;;python, sql, machine learning, сomputer vision;От 3 до 6 лет;2023-04-04;;;
+78711069;Data Scientist;Senior Data scientist (Управление рисками корпоративных клиентов);Москва;СБЕР;;;От 3 до 6 лет;2023-03-30;;;
+72127423;Data Scientist;Senior data scientist (разработка моделей для казначейства и рыночных рисков);Москва;Банк ВТБ (ПАО);;python, sql, математическая статистика, hadoop, математическое моделирование, spark, ml;Более 6 лет;2023-04-26;;;
+79717287;Data Scientist;Data scientist (Junior) в консалтинг;Москва;БСТ Менеджмент-Консалтинг;;python, ml, sql;Нет опыта;2023-04-27;40000;;RUR
+79879865;Data Scientist;Junior Data Scientist / Младший аналитик данных;Москва;АДВ;;python, математическая статистика, обучение и развитие, статистический анализ, прогнозирование, математический анализ;Нет опыта;2023-04-27;;;
+79742166;Data Scientist;Программист-стажер Data Scientist/Python;Москва;ИК СИБИНТЕК;;деловая переписка, грамотная речь, административная поддержка руководителя, делопроизводство, организаторские навыки;Нет опыта;2023-04-24;;;
+77725684;Data Scientist;Data Scientist / ML-разработчик;Москва;СтандартПроект;;python, sql, ml, machine learning, машинное обучение;От 1 года до 3 лет;2023-04-26;;;
+78680130;Data Scientist;Data Scientist / ML-инженер;Москва;Медиалогия;;python, adobe photoshop, аналитические исследования, аналитическое мышление, статистический анализ, machine learning, neural networks, deep learning, data science, data analysis, data mining, big data, анализ данных;От 1 года до 3 лет;2023-04-26;;;
+78707376;Data Scientist;Data Scientist (ML Space);Москва;Cloud;;;От 1 года до 3 лет;2023-04-24;;;
+76734803;Data Scientist;ML-инженер (Data Scientist);Москва;Федеральная сеть книжных магазинов Читай-город;;python, ml, sklearn, data analysis;От 1 года до 3 лет;2023-04-25;;;
+76939162;Data Scientist;Data Scientist (RecSys);Москва;Домклик;;python, sql, pytorch, математическая статистика, keras;От 1 года до 3 лет;2023-04-28;;;
+79318840;Data Scientist;"Стажёр Data Scientist, Группа разработки ""Персонализация"", Торговая площадка";Москва;Ozon;;работа в команде, python, алгоритмы, sql, математическая статистика, математический анализ, pytorch, opencv;От 1 года до 3 лет;2023-04-14;;;
+79115585;Data Scientist;Junior Data Scientist;Москва;СБЕР;;python, sql;От 1 года до 3 лет;2023-04-10;;;
+77957886;Data Scientist;Data Scientist (Разработчик AI/ML);Москва;Промышленные инновации;;;От 1 года до 3 лет;2023-04-12;;;
+79169643;Data Scientist;Data Scientist;Москва;ЛУКОЙЛ;;;От 1 года до 3 лет;2023-04-11;;;
+77425208;Data Scientist;Data scientist (Управление скоринга и Биг Дата);Москва;Банк Хоум Кредит;;ml, python, sql, математический анализ, математическое моделирование, теория вероятностей, линейная алгебра, big data, data scientist, мониторинг моделей, моделирование;От 1 года до 3 лет;2023-04-11;;;
+77907673;Data Scientist;Junior Data Scientist (сопровождение процесса разработки и использования моделей);Москва;Банк ВТБ (ПАО);;оценка рисков, ms powerpoint, статистический анализ, управление рисками, математическое моделирование, pd, lgd, ead, sql, портфельные риски, кредитные риски;От 1 года до 3 лет;2023-04-04;;;
+78995690;Data Scientist;Data Scientist;Москва;РОСБАНК;;python, sas, sql, r;От 1 года до 3 лет;2023-04-06;;;
+78740551;Data Scientist;Data Scientist (HR-модели);Москва;Газпромбанк;;python, sql, git, atlassian jira, анализ данных;От 1 года до 3 лет;2023-03-30;;;
+77949666;Data Scientist;Middle Data Scientist (Северсталь Диджитал);Москва;Северсталь;;python, tensorflow, sql, machine learning, git;От 1 года до 3 лет;2023-04-10;;;
+78465611;Data Scientist;Управляющий директор \ Data Scientist (Сопровождение процесса разработки и использования моделей);Москва;Банк ВТБ (ПАО);;оценка рисков, ms powerpoint, статистический анализ, управление рисками, математическое моделирование, pd, lgd, ead, sql, портфельные риски, кредитные риски;От 3 до 6 лет;2023-04-12;;;
+78851235;Data Scientist;Data Scientist (digital marketing);Москва;AUXO (Атос АйТи Солюшенс энд Сервисез);;английский язык, power bi, etl, data analysis, dax, aws, digital marketing, python, ltv, cpc, pbi, google analytics, яндекс.метрика;От 3 до 6 лет;2023-04-03;;;
+76815798;Data Scientist;Lead data scientist;Владивосток;Дром;;машинное обучение, алгоритмы, computer vision, python;От 3 до 6 лет;2023-04-16;300000;350000;RUR
+79343001;Data Scientist;Ведущий аудитор - Data Scientist;Хабаровск;СБЕР;;;От 1 года до 3 лет;2023-04-17;;;
+79843576;Data Scientist;Data Scientist (офис);Санкт-Петербург;Совкомбанк Технологии;;python, статистика, agile project management, статистический анализ, ориентация на результат;От 3 до 6 лет;2023-04-26;;;
+79772368;Data Scientist;Data Scientist / Machine Learning Engineer;Санкт-Петербург;Адверт Лайн;;python, sql, tableau, flask, data science, machine learning, a/b тесты, big data;От 1 года до 3 лет;2023-04-25;;;
+79843141;Data Scientist;Data Scientist в Маркет;Санкт-Петербург;Яндекс;;;От 3 до 6 лет;2023-04-26;;;
+79729498;Data Scientist;Data Scientist;Санкт-Петербург;БиАйЭй-Технолоджиз;;прогнозирование, machine learning, mathematical statistics, data science;От 3 до 6 лет;2023-04-24;;;
+77860632;Data Scientist;Data Scientist;Санкт-Петербург;LC Group;;python, docker, machine learning;От 3 до 6 лет;2023-04-28;;;
+78497569;Data Scientist;Data Scientist, Ранжирование поиска;Санкт-Петербург;Ozon;;python, data science, разработка поисковых технологий, it;От 3 до 6 лет;2023-04-28;;;
+79054184;Data Scientist;Data Scientist (NLP);Санкт-Петербург;БиАйЭй-Технолоджиз;;nlp, machine learning, python, pytorch, tensorflow, keras;От 3 до 6 лет;2023-04-25;;;
+78853190;Data Scientist;Младший научный сотрудник (Junior Data Scientist);Санкт-Петербург;ЦРТ | Группа компаний;;python, pytorch;От 1 года до 3 лет;2023-04-19;;;
+79434478;Data Scientist;Data Scientist;Санкт-Петербург;«UZUM TECHNOLOGIES».;;python, sql, ml, xgboost, работа с банками, pandas;Нет опыта;2023-04-18;;;
+77557349;Data Scientist;Аналитик данных/Middle Data scientist (Computer Vision);Санкт-Петербург;Северсталь;;python, sql, ms sql, английский язык, postgresql;От 1 года до 3 лет;2023-04-25;;;
+79544553;Data Scientist;Data Scientist (Computer Vision);Санкт-Петербург;Merk Team;;python, numpy, pandas, matlab, sklearn, computer vision, tensorflow, pytorch, object detection, английский язык;От 3 до 6 лет;2023-04-19;;;
+79729446;Data Scientist;Data Scientist (Deep Learning for Demand Forecast);Санкт-Петербург;БиАйЭй-Технолоджиз;;deep learning, прогнозирование, time series;От 3 до 6 лет;2023-04-24;;;
+79403652;Data Scientist;Data scientist (аналитик);Санкт-Петербург;Лидгид;;удаленная работа, ответственный подход к работе, python, pandas, sql, linux, статистический анализ, статистическая отчетность;От 3 до 6 лет;2023-04-17;;;
+73139690;Data Scientist;Data scientist;Санкт-Петербург;Газпром нефть;;python, sql, machine learning, pandas, deep learning, алгоритмы;От 3 до 6 лет;2023-04-19;;;
+76829230;Data Scientist;Senior Data Scientist (Лимасол/Ереван);Санкт-Петербург;Click;;python, математическая статистика, sql, статистический анализ, pandas, reinforcement learning, multi-armed bandits;От 3 до 6 лет;2023-04-26;;;
+78786488;Data Scientist;"Senior Data Scientist (""Платформа экспериментов"")";Санкт-Петербург;Okko;;python, sql, ml;От 3 до 6 лет;2023-04-27;;;
+76916740;Data Scientist;Data Scientist (Middle+/Senior);Санкт-Петербург;Центр финансовых технологий;;;От 1 года до 3 лет;2023-04-24;;;
+79608180;Data Scientist;ML Engineer / Data Scientist (команда автоматизации ML-процессов);Санкт-Петербург;VK;;spark, python;От 1 года до 3 лет;2023-04-20;;;
+79255279;Data Scientist;Senior Data Scientist (Rec. system);Санкт-Петербург;Okko;;python, sql, deep learning, ml;От 3 до 6 лет;2023-04-13;;;
+79304758;Data Scientist;Data Scientist;Санкт-Петербург;INSITECH Development;;python, oracle, грамотная речь, sql, clickhouse, hive, ml, контроль и анализ ценообразования, hadoop, spark, big data, data science;От 3 до 6 лет;2023-04-14;;;
+78381736;Data Scientist;Senior Data Scientist;Санкт-Петербург;Контур;;nlp, machine learning, python, data science;От 3 до 6 лет;2023-04-21;;;
+78466689;Data Scientist;Senior/Team Lead Data Scientist;Санкт-Петербург;Волкрафт;;ml, mathematical statistics, statistics;От 3 до 6 лет;2023-04-22;;250000;RUR
+79226615;Data Scientist;Data Scientist (TTS);Санкт-Петербург;Just AI;;;От 3 до 6 лет;2023-04-12;;;
+67054541;Data Scientist;Data Scientist;Санкт-Петербург;БИОКАД, биотехнологическая компания;;;От 3 до 6 лет;2023-04-09;;;
+79110323;Data Scientist;Data scientist (Управление рисками корпоративных клиентов);Санкт-Петербург;СБЕР;;;От 1 года до 3 лет;2023-04-10;;;
+76930898;Data Scientist;Data scientist / Machine learning engineer (команда рекомендаций и машинного обучения, ВКонтакте);Санкт-Петербург;VK;;python, machine learning, sql, scala, hadoop, spark;От 1 года до 3 лет;2023-04-13;;;
+77949850;Data Scientist;Middle Data Scientist (Северсталь Диджитал);Санкт-Петербург;Северсталь;;python, tensorflow, sql, machine learning, git;От 1 года до 3 лет;2023-04-10;;;
+79298740;Data Scientist;Team Lead Data Scientist;Санкт-Петербург;Самокат (ООО Умное пространство);;ml, лидерство;От 3 до 6 лет;2023-04-14;;;
+79255519;Data Scientist;Data Scientist middle+/senior (Транскодинг);Санкт-Петербург;Okko;;python, sql, machine learning, сomputer vision;От 3 до 6 лет;2023-04-13;;;
+79204741;Data Scientist;Senior Data Scientist (NLP);Санкт-Петербург;БиАйЭй-Технолоджиз;;nltk, pymorphy2, tensorflow, pytorch, nlp;От 3 до 6 лет;2023-04-12;;;
+79245437;Data Scientist;Senior Data scientist / Machine learning engineer (команда рекомендаций и машинного обучения);Санкт-Петербург;VK;;python, java, hadoop, big data, spark, scala;От 3 до 6 лет;2023-04-13;;;
+78883016;Data Scientist;Senior Data Scientist;Санкт-Петербург;Positive Technologies;;python, machine learning, web security, sklearn, pytorch, docker;От 3 до 6 лет;2023-04-04;;;
+79004050;Data Scientist;Data Scientist, ML (Удаленно);Санкт-Петербург;ИнтеллектДиалог;;data scientis, ml, машинное обучение, machine learning;От 1 года до 3 лет;2023-04-27;100000;250000;RUR
+78446701;Data Scientist;Senior/Team Lead Data Scientist;Пенза;Волкрафт;;ml, mathematical statistics, statistics;От 3 до 6 лет;2023-04-22;;250000;RUR
+79167028;Data Scientist;Cпециалист по работе с данными (Data Scientist);Самара;Открытый код;;;От 1 года до 3 лет;2023-04-19;;;
+79544554;Data Scientist;Data Scientist (Computer Vision);Самара;Merk Team;;python, numpy, pandas, matlab, sklearn, computer vision, tensorflow, pytorch, object detection, английский язык;От 3 до 6 лет;2023-04-19;;;
+78883018;Data Scientist;Senior Data Scientist;Самара;Positive Technologies;;python, machine learning, web security, sklearn, pytorch, docker;От 3 до 6 лет;2023-04-04;;;
+79808643;Data Scientist;Data Scientist;Екатеринбург;КБ Уральский банк реконструкции и развития (УБРиР);;;От 1 года до 3 лет;2023-04-26;;;
+79920191;Data Scientist;Data Scientist;Екатеринбург;Банк Синара;;python, sql, базы данных, deductor, spss, loginom, big data, машинное обучение;От 1 года до 3 лет;2023-04-28;;;
+77860634;Data Scientist;Data Scientist;Екатеринбург;LC Group;;python, docker, machine learning;От 3 до 6 лет;2023-04-28;;;
+79079446;Data Scientist;Data Scientist (Middle+/Senior);Екатеринбург;Центр финансовых технологий;;;От 1 года до 3 лет;2023-04-24;;;
+78748500;Data Scientist;Data Scientist;Тюмень;Тюменский нефтяной научный центр;;;От 1 года до 3 лет;2023-04-28;;;
+77445276;Data Scientist;Middle Data Scientist (Аналитическая обработка данных);Краснодар;МАГНИТ, Розничная сеть;;python, sql, a/b тесты, ml;От 1 года до 3 лет;2023-04-28;;;
+79719665;Data Scientist;Middle Data Scientist (e-commerce);Краснодар;МАГНИТ, Розничная сеть;;spark, hadoop, sql, oracle;От 1 года до 3 лет;2023-04-24;;;
+77434962;Data Scientist;Middle Data Scientist (Проект Управление ценообразованием);Краснодар;МАГНИТ, Розничная сеть;;spark, sql, python, data science;От 1 года до 3 лет;2023-04-28;;;
+78128781;Data Scientist;Middle Data scientist (Промо Прогноз);Краснодар;МАГНИТ, Розничная сеть;;python, sql, математическая статистика, spark, big data, hadoop, machine learning;От 1 года до 3 лет;2023-04-15;;;
+79254598;Data Scientist;Lead Data Scientist ML/СV;Сочи;СБЕР;;;От 3 до 6 лет;2023-04-13;;;
+79095952;Data Scientist;Middle Data Scientist (Клиентская аналитика);Краснодар;МАГНИТ, Розничная сеть;;python, hadoop, linux, sql, bash, spark, математическая статистика, алгоритмы;От 1 года до 3 лет;2023-04-10;;;
+78125945;Data Scientist;Senior Data Scientist (Промо Прогноз);Краснодар;МАГНИТ, Розничная сеть;;sql, hadoop, spark, python, airflow, linux;От 3 до 6 лет;2023-04-15;;;
+79407968;Data Scientist;Junior Data Scientist;Тамбов;Гибрид;;python, анализ данных, математическая статистика, data analysis, spark;От 1 года до 3 лет;2023-04-17;;;
+78771412;Data Scientist;Data Scientist / Python разработчик;Ростов-на-Дону;ЗАЗЕКС;;python, matlab, математический анализ, математическое моделирование, математическое программирование, математическая статистика, pandas, machine learning, numpy, data analysis, matplotlib, scipy, deep learning, data science, машинное обучение, scikit-learn, maple, mathematical analysis, pytorch, mathematical modeling, sklearn, tensorflow, keras, computer vision;Нет опыта;2023-04-27;;;
+78928573;Data Scientist;Data Scientist;Таганрог;Pudov;;data scientist, аналитик, pandas, numpy, scikit-learn, tensorflow, keras, scipy, plotly, seaborn, pytorch;От 1 года до 3 лет;2023-04-05;;;

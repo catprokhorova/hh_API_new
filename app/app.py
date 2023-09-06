@@ -1,15 +1,15 @@
 import os
 import time
 from datetime import datetime
-from pprint import pprint
 
+import httpx
 import pandas as pd
-import requests
 from dotenv import load_dotenv
 from numpy import NaN
 from tqdm import tqdm
 
 from converter import ConverterHH
+
 
 start = time.time()
 load_dotenv()
@@ -35,8 +35,8 @@ headers = {"Authorization": f'Bearer {os.getenv("TOKEN", " ")}'}
 
 # retrieving list of areas
 areas = []
-url_ar = "https://api.hh.ru/areas"
-res = requests.get(url_ar, headers=headers).json()
+URL_ARIES = "https://api.hh.ru/areas"
+res = httpx.get(URL_ARIES, headers=headers).json()
 for el in res[0]["areas"]:
     areas.append(el["id"])
 
@@ -47,7 +47,7 @@ for query in tqdm(queries):
     result = pd.DataFrame()
     for area in areas:
         time.sleep(0.5)
-        pages = requests.get(
+        pages = httpx.get(
             URL,
             headers=headers,
             params={
@@ -61,7 +61,7 @@ for query in tqdm(queries):
         ).json()["pages"]
         for page in tqdm(range(pages)):
             data = {}
-            resp = requests.get(
+            resp = httpx.get(
                 URL,
                 headers=headers,
                 params={
@@ -84,7 +84,7 @@ for query in tqdm(queries):
                 else:
                     data["schedule"] = NaN
                 time.sleep(0.5)
-                skill = requests.get(f"{URL}/{j['id']}", headers=headers).json()
+                skill = httpx.get(f"{URL}/{j['id']}", headers=headers).json()
                 if skill.get("key_skills"):
                     data["skills"] = ", ".join(
                         [s["name"] for s in skill["key_skills"]]

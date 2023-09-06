@@ -1,4 +1,11 @@
-pandas==2.0.0
-python-dotenv==1.0.0
-requests>=2.31.0
-tqdm==4.64.1
+pandas
+python-dotenv
+tqdm
+httpx
+pandas-stubs
+types-tqdm
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+google-api-python-client-stubs
+google-auth-stubs
