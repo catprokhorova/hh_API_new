@@ -19,18 +19,18 @@ logging.basicConfig(
 vert = ConverterHH()
 
 queries = [
-    # "Data_Scientist",
-    # "Системный_аналитик",
-    # "Аналитик_данных",
+    "Data Scientist",
+    "Системный аналитик",
+    "Аналитик данных",
     "1С-аналитик",
-    # "Финансовый_аналитик",
-    # "Маркетинговый_аналитик",
-    # "DataOps-инженер",
+    "Финансовый аналитик",
+    "Маркетинговый аналитик",
+    "DataOps-инженер",
     "Дата-журналист",
-    # "Продуктовый_аналитик",
-    # "Аналитик_BI",
-    # "Дата-инженер",
-    # "Бизнес-аналитик",
+    "Продуктовый аналитик",
+    "Аналитик BI",
+    "Дата-инженер",
+    "Бизнес-аналитик",
 ]
 
 headers = {"Authorization": f'Bearer {os.getenv("TOKEN", " ")}'}
@@ -79,9 +79,9 @@ def empty(url, query):
             "currency",
         ]
         pd.DataFrame(columns=columns).to_csv(
-            f"results/{query}.csv", sep=";", index=False
+            f"results/raw/{query}.csv", sep=";", index=False
         )
-    return True
+        return True
 
 
 def not_empty(url, query):
@@ -182,7 +182,7 @@ def not_empty(url, query):
                     data["salary_to"] = salary
                     data["currency"] = salary
                 result = pd.concat([result, pd.DataFrame([data])])
-    result.to_csv(f"results/{query}.csv", sep=";", index=False)
+    result.to_csv(f"results/raw/{query}.csv", sep=";", index=False)
 
 
 def main():
