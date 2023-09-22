@@ -5,3 +5,6 @@ __pycache__/
 .env
 results
 agg_stat.xlsx
+.vscode/
+token.json
+credentials.json

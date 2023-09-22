@@ -37,8 +37,7 @@ headers = {"Authorization": f'Bearer {os.getenv("TOKEN", " ")}'}
 
 # retrieving list of areas
 areas = []
-url_ar = "https://api.hh.ru/areas"
-res = requests.get(url_ar, headers=headers).json()
+res = requests.get("https://api.hh.ru/areas", headers=headers).json()
 for el in res[0]["areas"]:
     areas.append(el["id"])
 
@@ -102,63 +101,47 @@ def not_empty(url, query):
         ).json()["pages"]
         for page in tqdm(range(pages)):
             data = {}
-            try:
-                resp = requests.get(
-                    URL,
-                    headers=headers,
-                    params={
-                        "text": query,
-                        "search_field": "name",
-                        "area": area,
-                        "archived": False,
-                        "page": page,
-                        "per_page": 100,
-                    },
-                ).json()["items"]
-            except KeyError:
-                resp = requests.get(
-                    URL,
-                    headers=headers,
-                    params={
-                        "text": query,
-                        "search_field": "name",
-                        "area": area,
-                        "archived": False,
-                        "page": page,
-                        "per_page": 100,
-                    },
-                )
-                logging.error(f"{resp.headers}")
-                logging.error(f"{resp.json()}")
+            resp = requests.get(
+                URL,
+                headers=headers,
+                params={
+                    "text": query,
+                    "search_field": "name",
+                    "area": area,
+                    "archived": False,
+                    "page": page,
+                    "per_page": 100,
+                },
+            ).json()["items"]
             for j in resp:
                 data["date"] = datetime.today().strftime("%Y-%m-%d")
-                data["id"] = j["id"]
+                vacancy = requests.get(
+                    f"{URL}/{j['id']}", headers=headers
+                ).json()
+                data["id"] = vacancy["id"]
                 data["spec"] = query
-                data["job_title"] = j["name"]
-                data["city"] = j["area"]["name"]
-                data["employer"] = j["employer"]["name"]
-                if j["schedule"]:
-                    data["schedule"] = j["schedule"]["name"]
+                data["job_title"] = vacancy["name"]
+                data["city"] = vacancy["area"]["name"]
+                data["employer"] = vacancy["employer"]["name"]
+                if vacancy["schedule"]:
+                    data["schedule"] = vacancy["schedule"]["name"]
                 else:
                     data["schedule"] = NaN
                 time.sleep(0.5)
-                skill = requests.get(
-                    f"{URL}/{j['id']}", headers=headers
-                ).json()
-                if skill.get("key_skills"):
+                if vacancy.get("key_skills"):
                     data["skills"] = ", ".join(
-                        [s["name"] for s in skill["key_skills"]]
+                        [s["name"] for s in vacancy["key_skills"]]
                     ).lower()
                 else:
                     data["skills"] = NaN
-                if skill.get("experience"):
-                    data["experience"] = skill["experience"]["name"]
+                if vacancy.get("experience"):
+                    data["experience"] = vacancy["experience"]["name"]
                 else:
                     data["experience"] = NaN
                 data["published"] = datetime.strptime(
-                    j["published_at"].split("T")[0], "%Y-%m-%d"
+                    vacancy["published_at"].split("T")[0], "%Y-%m-%d"
                 )
-                salary = j.get("salary")
+                salary = vacancy.get("salary")
                 if salary:
                     course = vert.get_valute(salary["currency"])
                     if salary["currency"] != "RUR" and course:
