@@ -1,4 +1,3 @@
-import logging
 import os
 import time
 from datetime import datetime
@@ -14,6 +13,8 @@ from converter import ConverterHH
 load_dotenv()
 
 URL = "https://api.hh.ru/vacancies"
+DATE_FROM = "2023-08-01"
+DATE_TO = "2023-08-31"
 
 vert = ConverterHH()
 
@@ -40,11 +41,6 @@ res = requests.get("https://api.hh.ru/areas", headers=headers).json()
 for el in res[0]["areas"]:
     areas.append(el["id"])
 
-# # retrieving list of professional roles
-# professional_role = ['157', '79', '156', '10', '150',
-#                      '165', '164', '148', '41', '163',
-#                      '134', '40']
-
 
 def empty(url, query):
     resp = requests.get(
@@ -54,8 +50,9 @@ def empty(url, query):
             "text": query,
             "search_field": "name",
             "area": 113,
-            "archived": False,
-            "period": 30,
+            "archived": True,
+            "date_from": DATE_FROM,
+            "date_to": DATE_TO,
             "per_page": 100,
         },
     ).json()["items"]
@@ -91,8 +88,9 @@ def not_empty(url, query):
                 "text": query,
                 "search_field": "name",
                 "area": area,
-                "archived": False,
-                "period": 30,
+                "archived": True,
+                "date_from": DATE_FROM,
+                "date_to": DATE_TO,
                 "per_page": 100,
             },
         ).json()["pages"]
@@ -105,9 +103,10 @@ def not_empty(url, query):
                     "text": query,
                     "search_field": "name",
                     "area": area,
-                    "archived": False,
+                    "archived": True,
                     "page": page,
-                    "period": 30,
+                    "date_from": DATE_FROM,
+                    "date_to": DATE_TO,
                     "per_page": 100,
                 },
             ).json()["items"]
