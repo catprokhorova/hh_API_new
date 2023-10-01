@@ -1,4 +1,3 @@
-import logging
 import os
 import time
 from datetime import datetime
@@ -54,7 +53,6 @@ def empty(url, query):
             "text": query,
             "search_field": "name",
             "area": 113,
-            "archived": False,
             "period": 30,
             "per_page": 100,
         },
@@ -91,7 +89,6 @@ def not_empty(url, query):
                 "text": query,
                 "search_field": "name",
                 "area": area,
-                "archived": False,
                 "period": 30,
                 "per_page": 100,
             },
@@ -105,7 +102,6 @@ def not_empty(url, query):
                     "text": query,
                     "search_field": "name",
                     "area": area,
-                    "archived": False,
                     "page": page,
                     "period": 30,
                     "per_page": 100,
